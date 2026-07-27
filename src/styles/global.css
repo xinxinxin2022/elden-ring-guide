@@ -1,0 +1,354 @@
+/* ============================================
+   ELDEN RING GUIDE - DARK FANTASY THEME
+   Global Styles & CSS Custom Properties
+   ============================================ */
+
+:root {
+  /* Core palette — dark fantasy with golden accents */
+  --color-bg-deepest: #0a0a0f;
+  --color-bg-dark: #111118;
+  --color-bg-card: #1a1a24;
+  --color-bg-card-hover: #222233;
+  --color-bg-surface: #15151f;
+  --color-border: #2a2a3a;
+  --color-border-gold: #8b7355;
+  --color-gold: #c9a961;
+  --color-gold-bright: #e8d5a3;
+  --color-gold-dim: #8b7355;
+  --color-text: #e8e6e3;
+  --color-text-muted: #9a9a9a;
+  --color-text-dim: #6a6a6a;
+  --color-accent: #c9a961;
+  --color-accent-red: #8b2500;
+  --color-accent-blue: #4a6fa5;
+  --color-grace: #d4af37;
+
+  /* Typography */
+  --font-heading: 'Cinzel', 'Georgia', serif;
+  --font-body: 'Crimson Text', 'Georgia', serif;
+  --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Spacing */
+  --container-max: 1280px;
+  --container-narrow: 900px;
+  --header-height: 72px;
+  --sidebar-width: 300px;
+
+  /* Shadows & Effects */
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.4);
+  --shadow-glow: 0 0 20px rgba(201, 169, 97, 0.15);
+  --shadow-hover: 0 8px 32px rgba(0, 0, 0, 0.6);
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}
+
+/* Reset & Base */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--color-text);
+  background-color: var(--color-bg-deepest);
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(201, 169, 97, 0.03) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(75, 50, 25, 0.05) 0%, transparent 50%);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  color: var(--color-gold);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--color-gold-bright);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--color-gold-bright);
+  letter-spacing: 0.02em;
+}
+
+h1 { font-size: clamp(2rem, 4vw, 3.2rem); }
+h2 { font-size: clamp(1.6rem, 3vw, 2.4rem); }
+h3 { font-size: clamp(1.2rem, 2.5vw, 1.6rem); }
+h4 { font-size: 1.2rem; }
+
+p {
+  margin-bottom: 1.2em;
+}
+
+/* Layout */
+#elden-ring-app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  margin-top: var(--header-height);
+}
+
+.container {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.container--narrow {
+  max-width: var(--container-narrow);
+}
+
+/* Section spacing */
+.section {
+  padding: 80px 0;
+}
+
+.section--sm {
+  padding: 40px 0;
+}
+
+/* Cards */
+.card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all var(--transition-normal);
+  box-shadow: var(--shadow-card);
+}
+
+.card:hover {
+  background: var(--color-bg-card-hover);
+  border-color: var(--color-border-gold);
+  box-shadow: var(--shadow-hover), var(--shadow-glow);
+  transform: translateY(-4px);
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 28px;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border: 2px solid var(--color-gold-dim);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--color-gold);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: var(--color-gold);
+  color: var(--color-bg-deepest);
+  border-color: var(--color-gold);
+  box-shadow: var(--shadow-glow);
+}
+
+.btn--primary {
+  background: linear-gradient(135deg, var(--color-gold-dim), var(--color-gold));
+  color: var(--color-bg-deepest);
+  border-color: var(--color-gold);
+}
+
+.btn--primary:hover {
+  background: linear-gradient(135deg, var(--color-gold), var(--color-gold-bright));
+  box-shadow: var(--shadow-glow);
+}
+
+/* Article content styles */
+.article-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.article-content h2 {
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.article-content h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+}
+
+.article-content ul,
+.article-content ol {
+  margin-bottom: 1.2em;
+  padding-left: 1.5em;
+}
+
+.article-content li {
+  margin-bottom: 0.5em;
+}
+
+.article-content strong {
+  color: var(--color-gold-bright);
+  font-weight: 700;
+}
+
+.article-content blockquote {
+  border-left: 3px solid var(--color-gold);
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  background: rgba(201, 169, 97, 0.05);
+  font-style: italic;
+  color: var(--color-text-muted);
+}
+
+.article-content img {
+  border-radius: 8px;
+  margin: 1.5em 0;
+  border: 1px solid var(--color-border);
+}
+
+.article-content .article-image {
+  margin: 2em 0;
+  text-align: center;
+}
+
+.article-content .article-image img {
+  margin: 0 auto;
+  border-radius: 8px;
+  border: 1px solid var(--color-border);
+  max-width: 100%;
+}
+
+.article-content figcaption {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-dim);
+  margin-top: 8px;
+  font-style: italic;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: 24px;
+}
+
+.breadcrumbs a {
+  color: var(--color-text-muted);
+}
+
+.breadcrumbs a:hover {
+  color: var(--color-gold);
+}
+
+.breadcrumbs .separator {
+  color: var(--color-text-dim);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gold-dim);
+}
+
+/* Selection */
+::selection {
+  background: rgba(201, 169, 97, 0.3);
+  color: var(--color-gold-bright);
+}
+
+/* Language note for English-only pages */
+.lang-note {
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  color: var(--color-text-dim);
+  text-align: center;
+  padding: 12px 20px;
+  background: rgba(201, 169, 97, 0.05);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  margin-bottom: 32px;
+}
+
+/* Utility */
+.text-gold { color: var(--color-gold); }
+.text-muted { color: var(--color-text-muted); }
+.text-center { text-align: center; }
+.mb-0 { margin-bottom: 0; }
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+.mb-4 { margin-bottom: 2rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-4 { margin-top: 2rem; }
+
+/* Responsive */
+@media (max-width: 768px) {
+  body { font-size: 16px; }
+  .section { padding: 48px 0; }
+  .container { padding: 0 16px; }
+}
+
+/* Loading shimmer for lazy images */
+.img-placeholder {
+  background: linear-gradient(90deg, var(--color-bg-card) 25%, var(--color-bg-card-hover) 50%, var(--color-bg-card) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}

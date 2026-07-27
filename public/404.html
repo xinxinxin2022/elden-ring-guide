@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 - Page Not Found | Elden Ring Guide</title>
+  <meta name="description" content="The page you're looking for doesn't exist. Return to the Elden Ring Guide homepage." />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #0a0a0f;
+      color: #e8e6e3;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 24px;
+      background-image:
+        radial-gradient(ellipse at 50% 120%, rgba(201, 169, 97, 0.06) 0%, transparent 60%),
+        radial-gradient(ellipse at 50% -20%, rgba(75, 50, 25, 0.04) 0%, transparent 50%);
+    }
+    .error-code {
+      font-family: 'Cinzel', serif;
+      font-size: clamp(5rem, 12vw, 10rem);
+      font-weight: 900;
+      color: #c9a961;
+      line-height: 1;
+      margin-bottom: 16px;
+      text-shadow: 0 0 40px rgba(201, 169, 97, 0.3);
+    }
+    h2 {
+      font-family: 'Cinzel', serif;
+      font-size: clamp(1.5rem, 3vw, 2.2rem);
+      color: #e8d5a3;
+      margin-bottom: 16px;
+    }
+    p {
+      font-size: 1.1rem;
+      color: #9a9a9a;
+      line-height: 1.7;
+      max-width: 500px;
+      margin: 0 auto 32px;
+    }
+    .actions {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    a {
+      display: inline-block;
+      padding: 12px 28px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      border: 2px solid #8b7355;
+      border-radius: 4px;
+      color: #c9a961;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    a:hover {
+      background: #c9a961;
+      color: #0a0a0f;
+      border-color: #c9a961;
+    }
+    a.primary {
+      background: linear-gradient(135deg, #8b7355, #c9a961);
+      color: #0a0a0f;
+      border-color: #c9a961;
+    }
+    a.primary:hover {
+      background: linear-gradient(135deg, #c9a961, #e8d5a3);
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <div class="error-code">404</div>
+    <h2>Lost in the Lands Between</h2>
+    <p>The page you seek has vanished into the fog. Perhaps it was never there to begin with, or the Erdtree's light has led you astray.</p>
+    <div class="actions">
+      <a href="/elden-ring-guide/" class="primary">Return to Grace</a>
+      <a href="/elden-ring-guide/guides">Browse Guides</a>
+    </div>
+  </div>
+
+  <script>
+    // GitHub Pages SPA redirect - handles client-side routing
+    // This redirects to the SPA with the path preserved
+    (function() {
+      var path = window.location.pathname;
+      var base = '/elden-ring-guide';
+
+      // Don't redirect if already on the base path
+      if (path === base || path === base + '/') return;
+
+      // Check if the path has a file extension (direct file access)
+      var segments = path.split('/');
+      var lastSegment = segments[segments.length - 1];
+      if (lastSegment.indexOf('.') !== -1) return;
+
+      // Redirect to SPA with the path as a query parameter
+      var query = '?p=' + encodeURIComponent(path.replace(base, ''));
+      window.location.replace(base + '/' + query);
+    })();
+  </script>
+</body>
+</html>

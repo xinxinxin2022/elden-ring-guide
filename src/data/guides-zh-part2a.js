@@ -10,11 +10,6 @@ export const guidesZhPart2a = [
 
       <p>在深入DLC内容之前，请确保你在基础游戏中已经推进到足够远的进度。你至少需要击败两位碎片持有者，并到达巨人山顶，才能进入DLC。理想情况下，目标等级应在120至150之间，并升级你的武器，以便在难度大幅提升的幽影之地中获得最好的生存机会。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&h=450&fit=crop" alt="象征黄金树幽影DLC史诗感的戏剧性天空" loading="lazy" />
-        <figcaption>幽影之地等待着那些有勇气揭开黄金树秘密的褪色者</figcaption>
-      </figure>
-
       <h2>入门指南：如何进入DLC</h2>
       <p>要开启你的黄金树幽影之旅，你需要在击败鲜血之王莫格后，于莫格温王宫的赐福点休息。从那里，与枯萎的手臂互动，即可将自己传送至幽影之地。该区域与基础游戏世界完全独立，因此请做好充分准备。</p>
 
@@ -54,11 +49,6 @@ export const guidesZhPart2a = [
       <h3>特定Boss注意事项</h3>
       <p>DLC中的每个主要Boss都有独特的机制需要应对。部分Boss的阶段转换会彻底改变其招式组合，而另一些则存在需要管理的环境危害。关键在于耐心——如果你卡关了，不要犹豫，升级或探索其他区域。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&h=450&fit=crop" alt="展示艾尔登法环DLC中激烈Boss战的游戏画面" loading="lazy" />
-        <figcaption>DLC中的Boss以极具挑战性的阶段转换和毁灭性攻击考验你对战斗机制的掌握</figcaption>
-      </figure>
-
       <h2>幽影树碎片与崇敬灵魂灰烬</h2>
       <p>DLC中最重要的机制之一是收集幽影树碎片和崇敬灵魂灰烬。这些道具专门提升你在幽影之地的伤害输出和骨灰效能。你必须在旅途中不断收集它们，才能在与后期Boss的战斗中有一战之力。</p>
 
@@ -89,11 +79,6 @@ export const guidesZhPart2a = [
 
       <p>请记住，DLC提供了基于整个故事中做出的选择而定的多种结局。关注NPC任务线和对话选项，因为这些会影响你获得的结局。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?w=800&h=450&fit=crop" alt="象征黄金树幽影之谜的暗黑艺术" loading="lazy" />
-        <figcaption>幽影之地蕴藏的秘密将挑战你对艾尔登法环的一切认知</figcaption>
-      </figure>
-
       <h2>结语</h2>
       <p>黄金树幽影DLC是一款杰出的扩展内容，它在《艾尔登法环》所有优点的基础上，引入了全新的挑战与谜团。无论你是追求全收集的玩家，还是只想体验剧情的休闲玩家，这篇<strong>黄金树幽影流程攻略</strong>都应该能帮助你在幽影之地的旅程中指引方向。</p>
 
@@ -110,11 +95,6 @@ export const guidesZhPart2a = [
       <p>《艾尔登法环》拥有六个截然不同的结局，反映着你在整个旅途中做出的不同选择。与某些FromSoftware游戏中结局仅有细微差别不同，每个<strong>艾尔登法环结局</strong>都讲述着关于交界地未来以及你作为艾尔登之王角色的不同故事。这篇<strong>艾尔登法环结局攻略</strong>将解释如何达成每个结局，以及它对这个世界意味着什么。</p>
 
       <p>在我们深入细节之前，重要的是要理解，大多数结局由游戏后期决定，通常是在击败最终Boss之后。然而，部分结局需要在更早之前完成特定任务线，所以如果你想体验特定结局，请提前做好规划。</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=450&fit=crop" alt="象征《艾尔登法环》多重结局的黑暗氛围场景" loading="lazy" />
-        <figcaption>你的选择将在六个截然不同且意义深远的结局中塑造交界地的命运</figcaption>
-      </figure>
 
       <h2>《艾尔登法环》的六个结局</h2>
 
@@ -157,11 +137,6 @@ export const guidesZhPart2a = [
         <li>击败最终Boss后，召唤蓝色印记</li>
       </ul>
       <p><strong>含义：</strong>许多人认为这是追求改变的玩家心中的<strong>艾尔登法环最佳结局</strong>。它代表着与黄金律法及大意志影响的彻底决裂。群星时代带来神秘与自由，尽管也意味着在缺乏神明指引下的不确定未来。</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&h=450&fit=crop" alt="象征《艾尔登法环》群星时代结局的奇幻场景" loading="lazy" />
-        <figcaption>群星时代结局代表着与黄金律法及其腐化影响的彻底决裂</figcaption>
-      </figure>
 
       <h3>5. 癫火之王</h3>
       <p>癫火之王结局是最具毁灭性的结局。通过继承癫火，你选择将整个世界烧至根基，摧毁一切，包括黄金树本身。</p>
@@ -212,11 +187,6 @@ export const guidesZhPart2a = [
 
       <p>理解这些主题能加深你的游戏体验，并帮助你选择与你角色旅程产生共鸣的结局。通过其结局呈现的<strong>艾尔登法环剧情解析</strong>，揭示了一个在秩序与混沌、生命与死亡、控制与自由之间寻求平衡的世界。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&h=450&fit=crop" alt="象征《艾尔登法环》结局哲学主题的科技场景" loading="lazy" />
-        <figcaption>每个结局都反映着关于权力、秩序和存在本质的不同哲学视角</figcaption>
-      </figure>
-
       <h2>结语</h2>
       <p>《艾尔登法环》的多重结局赋予了玩家影响世界未来的有意义选择。无论你选择恢复黄金律法、拥抱群星，还是将一切付之一炬，每个结局都讲述着关于权力、责任与存在本质的引人入胜的故事。花时间探索任务线，慎重考虑每个选择的含义，然后选择那个对你的褪色者而言感觉正确的结局。</p>
     `
@@ -231,11 +201,6 @@ export const guidesZhPart2a = [
       <p>在《艾尔登法环》中选择正确的武器能决定你前期游戏体验的成败。<strong>艾尔登法环最强武器</strong>并不总是伤害数值最高的那些——你需要考虑属性补正、招式组合以及与你的构建协同性。本指南将介绍十大<strong>艾尔登法环前期武器</strong>，它们能轻松陪你从起始区域走到中期。</p>
 
       <p>无论你是专注力量的战士、基于敏捷的武士，还是寻求可靠近战选项的信仰施法者，这里都有适合你的武器。所有这些武器都可以在游戏前几个小时内获得，并且在合理强化后在后期依然可用。</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=450&fit=crop" alt="象征《艾尔登法环》武器选择的游戏场景" loading="lazy" />
-        <figcaption>选择正确的前期武器为你整个构建奠定基础</figcaption>
-      </figure>
 
       <h2>十大最佳前期武器</h2>
 
@@ -256,11 +221,6 @@ export const guidesZhPart2a = [
       <p><strong>需求：</strong>力量12，敏捷18，智力23</p>
       <p><strong>为何出色：</strong>虽然技术上可以在前期获得，但月光打刀被普遍认为是整个游戏中最好的武器之一。它补正智力与敏捷，其战技"瞬月斩"释放强力的魔法斩击，可从安全距离击中敌人。</p>
       <p>月光打刀特别强大，因为它结合了近战和远程能力。你可以使用战技从远处攻击敌人，或切换到普通攻击进行近身战斗。魔法伤害可绕过许多敌人的防御，对重甲敌人尤为有效。</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b2b0f?w=800&h=450&fit=crop" alt="象征《艾尔登法环》强力武器的黑暗景观" loading="lazy" />
-        <figcaption>从打刀到大剑，前期武器为各种构建提供多样化的游戏风格</figcaption>
-      </figure>
 
       <h3>4. 猎犬之牙（Bloodhound's Fang）</h3>
       <p><strong>位置：</strong>宁姆格福，猎犬之牙（由猎犬骑士达利威尔掉落）</p>
@@ -324,11 +284,6 @@ export const guidesZhPart2a = [
         <li><strong>信仰武器：</strong>圣属性武器、火焰艺术武器</li>
         <li><strong>奥术武器：</strong>带有出血、中毒或状态效果的武器</li>
       </ul>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?w=800&h=450&fit=crop" alt="象征《艾尔登法环》武器补正与构建协同的暗黑艺术" loading="lazy" />
-        <figcaption>理解武器补正是打造强大且令人满足的角色的关键</figcaption>
-      </figure>
 
       <h2>结语</h2>
       <p>以上列出的<strong>艾尔登法环前期武器</strong>将在你的整个旅程中为你提供良好服务。记住，最好的武器是那些适合你游戏风格和构建的武器。大胆尝试不同选项，如果某种方式行不通，不要害怕重新分配属性，最重要的是，享受探索交界地的乐趣。</p>

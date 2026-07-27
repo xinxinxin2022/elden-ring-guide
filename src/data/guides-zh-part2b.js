@@ -9,11 +9,6 @@ export const guidesZhPart2b = [
 
       <p>与PvE不同——在PvE中你通常可以通过等级和强化装备蛮力通关——PvP要求你在更深层次上理解游戏机制。你需要学习攻击模式、管理精力，并在瞬息之间做出决定胜负的决策。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&h=450&fit=crop" alt="奇幻场景展现艾尔登法环中的PvP战斗" loading="lazy" />
-        <figcaption>艾尔登法环的PvP在交界地中以致命决斗考验你面对真实玩家的技巧</figcaption>
-      </figure>
-
       <h2>理解PvP核心机制</h2>
       <p>在深入流派构建和策略之前，理解<strong>艾尔登法环PvP</strong>的核心机制非常重要：</p>
 
@@ -77,11 +72,6 @@ export const guidesZhPart2b = [
       <p><strong>武器：</strong>鲜血旋流、任何带异常状态效果的武器</p>
       <p>奥秘流派专注于异常状态效果，如出血、中毒和猩红腐败。这些可以非常有效但需要耐心和对游戏的深入了解。鲜血旋流太刀特别强势，其尸体堆积战技可以快速积累出血。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&h=450&fit=crop" alt="游戏画面展现艾尔登法环中激烈的PvP战斗" loading="lazy" />
-        <figcaption>掌握多种流派让你能够适应任何PvP情况并让对手捉摸不定</figcaption>
-      </figure>
-
       <h2>高级PvP策略</h2>
       <p>掌握基础之后，尝试这些高级策略：</p>
 
@@ -103,11 +93,6 @@ export const guidesZhPart2b = [
         <li><strong>不要忘记使用道具：</strong>药丸、投掷物和制作道具可以扭转战局。</li>
         <li><strong>不要愤怒退出：</strong>你会在PvP中输掉很多场，尤其是在刚开始时。从每次失败中学习并持续进步。</li>
       </ul>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1504639725590-34f0676ar820?w=800&h=450&fit=crop" alt="冒险场景代表提升艾尔登法环PvP技巧的旅程" loading="lazy" />
-        <figcaption>PvP中的每次失败都是让你更接近精通的学习机会</figcaption>
-      </figure>
 
       <h2>PvP礼仪与社区</h2>
       <p>艾尔登法环PvP社区有其不成文的规则和礼仪：</p>
@@ -134,11 +119,6 @@ export const guidesZhPart2b = [
 
       <p>与传统游戏直接呈现剧情不同，艾尔登法环要求你从散落在世界各地的碎片中拼凑故事。本指南旨在将这些碎片连接成连贯的叙事，帮助你理解<strong>艾尔登法环剧情</strong>及其角色的动机。</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=450&fit=crop" alt="黑暗氛围场景代表艾尔登法环复杂的剧情" loading="lazy" />
-        <figcaption>艾尔登法环的剧情跨越数千年的宇宙冲突、神明背叛和悲剧英雄主义</figcaption>
-      </figure>
-
       <h2>世界的创造</h2>
       <p>艾尔登法环的故事远在你的角色苏醒之前就开始了。世界由大意志塑造，这是一个外神，试图将秩序强加于混沌之上。大意志派下了艾尔登之兽，一个仆从神明，成为了艾尔登法环——黄金律法法则的具象化。</p>
 
@@ -162,11 +142,6 @@ export const guidesZhPart2b = [
       <p>玛丽卡女王因儿子的死而悲痛欲绝。在悲伤中，她打碎了艾尔登法环，这一行为使世界破碎并将大卢恩分散给她的孩子们。这一事件被称为破碎战争，它将交界地推入了混沌。</p>
 
       <p>玛丽卡行动的确切原因尚不清楚。有些人认为她被悲伤逼疯，而另一些人则认为她试图阻止大意志使用艾尔登法环控制世界。她的影子玛利喀斯被指派守卫死亡卢恩，但未能阻止其被盗并用于葛温的刺杀。</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b2b0f?w=800&h=450&fit=crop" alt="黑暗景观代表艾尔登法环剧情中黑刀之夜的悲剧事件" loading="lazy" />
-        <figcaption>黑刀之夜引发了使世界破碎的灾难性事件</figcaption>
-      </figure>
 
       <h2>破碎战争与半神之战</h2>
       <p>艾尔登法环被打碎后，半神们各自夺取一枚大卢恩。然而，没有完整法环的统一力量，卢恩开始腐化其持有者，用野心和偏执使他们发疯。</p>
@@ -236,11 +211,6 @@ export const guidesZhPart2b = [
 
       <h3>自由意志 vs 命运</h3>
       <p>大意志的秩序与癫火的混沌之间的冲突代表了命运与自由意志之间的张力。你注定要侍奉大意志，还是你可以选择自己的道路？结局为这个问题提供了不同的答案。</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?w=800&h=450&fit=crop" alt="黑暗艺术代表艾尔登法环的哲学主题和结局" loading="lazy" />
-        <figcaption>你作为褪色者做出的决定决定了整个世界的命运</figcaption>
-      </figure>
 
       <h2>结论</h2>
       <p>艾尔登法环的剧情故意复杂且模糊，邀请玩家从碎片中拼凑故事并形成自己的解读。本<strong>艾尔登法环剧情</strong>解析为理解叙事提供了基础，但总有更多内容等待发现。</p>

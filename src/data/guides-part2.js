@@ -8,17 +8,12 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 25,
-    image: "https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/929f4ee82aed795388a6b56fadf0fba2.jpeg",
     content: `
       <h2>Introduction to the Shadow of the Erdtree DLC</h2>
       <p>The Shadow of the Erdtree DLC represents FromSoftware's ambitious expansion to Elden Ring, introducing the mysterious Land of Shadow and countless new challenges for Tarnished seeking to uncover the secrets of the Erdtree. This <strong>elden ring dlc guide</strong> will walk you through everything you need to know about tackling this massive addition to the game, from recommended level and equipment to detailed boss strategies and hidden secrets.</p>
 
       <p>Before diving into the DLC content, make sure you've progressed far enough in the base game. You should have defeated at least two Shardbearers and reached the Mountaintops of the Giants to access the DLC. Ideally, aim for level 120-150 with upgraded weapons to give yourself the best chance of survival in the significantly more challenging Land of Shadow.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?w=800&h=450&fit=crop" alt="Dramatic sky representing the epic Shadow of the Erdtree DLC" loading="lazy" />
-        <figcaption>The Land of Shadow awaits Tarnished brave enough to uncover the secrets of the Erdtree</figcaption>
-      </figure>
 
       <h2>Getting Started: Accessing the DLC</h2>
       <p>To begin your journey in the Shadow of the Erdtree, you'll need to rest at the Site of Grace in Mohgwyn Palace after defeating Mohg, Lord of Blood. From there, interact with the withered arm to transport yourself to the Land of Shadow. This area is completely separate from the base game world, so prepare accordingly.</p>
@@ -59,11 +54,6 @@ export const guidesPart2 = [
       <h3>Specific Boss Notes</h3>
       <p>Each major boss in the DLC has unique mechanics that require adaptation. Some feature phase transitions that completely change their movesets, while others have environmental hazards to manage. The key is patience - don't be afraid to level up or explore other areas if you're stuck.</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1507400492013-162706c8c05e?w=800&h=450&fit=crop" alt="Gaming screen showing intense boss battle in Elden Ring DLC" loading="lazy" />
-        <figcaption>DLC bosses test your mastery of combat mechanics with challenging phase transitions and devastating attacks</figcaption>
-      </figure>
-
       <h2>Scadutree Fragments and Revered Spirit Ashes</h2>
       <p>One of the most important mechanics in the DLC is collecting Scadutree Fragments and Revered Spirit Ashes. These items increase your damage output and spirit ash effectiveness specifically in the Land of Shadow. You'll need to find these throughout your journey to stand a chance against later bosses.</p>
 
@@ -94,11 +84,6 @@ export const guidesPart2 = [
 
       <p>Remember that the DLC offers multiple endings based on choices made throughout the story. Pay attention to NPC questlines and dialogue options, as these can affect which ending you receive.</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1489549132458-1a1242f34a90?w=800&h=450&fit=crop" alt="Dark art representing the mysteries of the Shadow of the Erdtree" loading="lazy" />
-        <figcaption>The Land of Shadow holds secrets that will challenge everything you thought you knew about the Elden Ring</figcaption>
-      </figure>
-
       <h2>Conclusion</h2>
       <p>The Shadow of the Erdtree DLC is a masterful expansion that builds on everything great about Elden Ring while introducing fresh challenges and mysteries. Whether you're a completionist seeking every secret or a casual player wanting to experience the story, this <strong>shadow of the erdtree walkthrough</strong> should help guide your journey through the Land of Shadow.</p>
 
@@ -114,17 +99,12 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 18,
-    image: "https://images.unsplash.com/photo-1499346030926-9a72a5e6226f?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/95e01a862b02d1727696a4fc79825b5f.jpeg",
     content: `
       <h2>Understanding Elden Ring's Multiple Endings</h2>
       <p>Elden Ring features six distinct endings that reflect different choices made throughout your journey. Unlike some FromSoftware games where endings are minor variations, each <strong>elden ring ending</strong> tells a different story about the future of the Lands Between and your role as Elden Lord. This <strong>elden ring ending guide</strong> will explain how to achieve each ending and what it means for the world.</p>
 
       <p>Before we dive into the specifics, it's important to understand that most endings are determined late in the game, often after defeating the final boss. However, some require completing specific questlines much earlier, so plan ahead if you want to experience a particular ending.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=800&h=450&fit=crop" alt="Dark atmospheric scene representing the multiple endings of Elden Ring" loading="lazy" />
-        <figcaption>Your choices shape the fate of the Lands Between in six distinct and meaningful endings</figcaption>
-      </figure>
 
       <h2>The Six Endings of Elden Ring</h2>
 
@@ -167,11 +147,6 @@ export const guidesPart2 = [
         <li>Summon the blue sigil after defeating the final boss</li>
       </ul>
       <p><strong>What it means:</strong> Many consider this the <strong>elden ring best ending</strong> for those who want change. It represents a complete break from the Golden Order and the influence of the Greater Will. The age of stars brings mystery and freedom, though it also means an uncertain future without the guidance of the gods.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1517483000871-1dbf64a601a2?w=800&h=450&fit=crop" alt="Fantasy scene representing the Age of Stars ending in Elden Ring" loading="lazy" />
-        <figcaption>The Age of Stars ending represents a complete break from the Golden Order and its corrupt influence</figcaption>
-      </figure>
 
       <h3>5. Lord of Frenzied Flame</h3>
       <p>The Lord of Frenzied Flame ending is the most destructive ending available. By inheriting the Frenzied Flame, you choose to burn the entire world to its foundations, destroying everything including the Erdtree itself.</p>
@@ -222,11 +197,6 @@ export const guidesPart2 = [
 
       <p>Understanding these themes adds depth to your playthrough and helps you choose the ending that resonates with your character's journey. The <strong>elden ring story explained</strong> through its endings reveals a world struggling to find balance between order and chaos, life and death, control and freedom.</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=800&h=450&fit=crop" alt="Tech and cyber scene representing the philosophical themes of Elden Ring endings" loading="lazy" />
-        <figcaption>Each ending reflects different philosophical perspectives on power, order, and the nature of existence</figcaption>
-      </figure>
-
       <h2>Conclusion</h2>
       <p>Elden Ring's multiple endings give players meaningful choices that affect the world's future. Whether you choose to restore the Golden Order, embrace the stars, or burn it all down, each ending tells a compelling story about power, responsibility, and the nature of existence. Take your time exploring the questlines, consider the implications of each choice, and choose the ending that feels right for your Tarnished.</p>
     `
@@ -240,17 +210,12 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 15,
-    image: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/be9e1110091b3e497b04ee03252213e5.jpeg",
     content: `
       <h2>Finding the Best Early Game Weapons</h2>
       <p>Choosing the right weapon in Elden Ring can make or break your early game experience. The <strong>elden ring best weapons</strong> aren't always the ones with the highest damage numbers - you need to consider scaling, moveset, and synergy with your build. This guide covers the top 10 <strong>elden ring early game weapons</strong> that will carry you from the starting areas through the mid-game with ease.</p>
 
       <p>Whether you're a strength-focused warrior, a dexterity-based samurai, or a faith caster looking for a reliable melee option, there's a weapon here for you. All of these weapons can be obtained within the first few hours of gameplay and remain viable well into the late game with proper upgrading.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1511497584788-5e3a5e48e5a0?w=800&h=450&fit=crop" alt="Gaming setup representing weapon selection in Elden Ring" loading="lazy" />
-        <figcaption>Choosing the right early game weapon sets the foundation for your entire build</figcaption>
-      </figure>
 
       <h2>Top 10 Best Early Game Weapons</h2>
 
@@ -271,11 +236,6 @@ export const guidesPart2 = [
       <p><strong>Requirements:</strong> Str 12, Dex 18, Int 23</p>
       <p><strong>Why it's great:</strong> While technically obtainable early, the Moonveil is often considered one of the best weapons in the entire game. It scales with intelligence and dexterity, and its weapon art, Transient Moonlight, releases a powerful magical slash that can hit enemies from a safe distance.</p>
       <p>The Moonveil is particularly strong because it combines melee and ranged capabilities. You can use the weapon art to poke enemies from afar or switch to regular attacks for close combat. The magic damage bypasses many enemy defenses, making it effective against heavily armored foes.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&h=450&fit=crop" alt="Dark landscape representing powerful weapons in Elden Ring" loading="lazy" />
-        <figcaption>From katanas to greatswords, early game weapons offer diverse playstyles for every build</figcaption>
-      </figure>
 
       <h3>4. Bloodhound's Fang</h3>
       <p><strong>Location:</strong> Bloodhound's Fang, Limgrave (dropped by Bloodhound Knight Darriwil)</p>
@@ -340,11 +300,6 @@ export const guidesPart2 = [
         <li><strong>Arcane weapons:</strong> Weapons with bleed, poison, or status effects</li>
       </ul>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1502136869730-d0f924e2a053?w=800&h=450&fit=crop" alt="Dark art representing weapon scaling and build synergy in Elden Ring" loading="lazy" />
-        <figcaption>Understanding weapon scaling is key to building a character that feels powerful and satisfying</figcaption>
-      </figure>
-
       <h2>Conclusion</h2>
       <p>The <strong>elden ring early game weapons</strong> listed above will serve you well throughout your journey. Remember that the best weapon is the one that fits your playstyle and build. Experiment with different options, don't be afraid to respec if something isn't working, and most importantly, have fun exploring the Lands Between.</p>
 
@@ -360,17 +315,12 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 20,
-    image: "https://images.unsplash.com/photo-1542751112-ecd27b094e47?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/c8575829af3438c6c2208b6e250b7b74.jpeg",
     content: `
       <h2>Getting Started with Elden Ring PvP</h2>
       <p><strong>Elden Ring PvP</strong> is one of the most challenging and rewarding aspects of the game. Whether you're invading other players' worlds or defending against invaders, success requires knowledge, skill, and the right build. This <strong>elden ring pvp guide</strong> will teach you the fundamentals of PvP combat, help you choose effective builds, and provide strategies for winning more duels.</p>
 
       <p>Unlike PvE, where you can often brute force your way through with leveling and upgrades, PvP requires you to understand the game's mechanics at a deeper level. You'll need to learn attack patterns, manage your stamina, and make split-second decisions that can mean the difference between victory and defeat.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1468818411942-d3d306524a4e?w=800&h=450&fit=crop" alt="Fantasy scene representing PvP combat in Elden Ring" loading="lazy" />
-        <figcaption>PvP in Elden Ring tests your skills against real players in deadly duels across the Lands Between</figcaption>
-      </figure>
 
       <h2>Understanding PvP Mechanics</h2>
       <p>Before diving into builds and strategies, it's important to understand the core mechanics of <strong>elden ring pvp</strong>:</p>
@@ -435,11 +385,6 @@ export const guidesPart2 = [
       <p><strong>Weapons:</strong> Rivers of Blood, any weapon with status effects</p>
       <p>Arcane builds focus on status effects like bleed, poison, and scarlet rot. These can be very effective but require patience and game knowledge. The Rivers of Blood katana is particularly strong due to its Corpse Piler weapon art that builds bleed quickly.</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1478147427282-58a87a120781?w=800&h=450&fit=crop" alt="Gaming screen showing intense PvP combat in Elden Ring" loading="lazy" />
-        <figcaption>Mastering multiple builds lets you adapt to any PvP situation and keep opponents guessing</figcaption>
-      </figure>
-
       <h2>Advanced PvP Strategies</h2>
       <p>Once you've mastered the basics, try these advanced strategies:</p>
 
@@ -461,11 +406,6 @@ export const guidesPart2 = [
         <li><strong>Don't forget about items:</strong> Boluses, throwables, and crafting items can turn the tide of battle.</li>
         <li><strong>Don't rage quit:</strong> You'll lose a lot in PvP, especially when starting. Learn from each defeat and keep improving.</li>
       </ul>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&h=450&fit=crop" alt="Adventure scene representing the journey of improving at Elden Ring PvP" loading="lazy" />
-        <figcaption>Every defeat in PvP is a learning opportunity that brings you closer to mastery</figcaption>
-      </figure>
 
       <h2>PvP Etiquette and Community</h2>
       <p>The Elden Ring PvP community has its own unwritten rules and etiquette:</p>
@@ -492,17 +432,12 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 22,
-    image: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/d78360c40d90db4eaef33d0886d0cce3.jpeg",
     content: `
       <h2>Understanding Elden Ring's Complex Lore</h2>
       <p>Elden Ring's <strong>elden ring lore</strong> is among the most intricate and layered narratives in gaming. Created by Hidetaka Miyazaki and George R.R. Martin, the story unfolds through item descriptions, environmental storytelling, and cryptic dialogue. This <strong>elden ring story explained</strong> guide will break down the complete narrative, from the creation of the world to the events you experience as a Tarnished.</p>
 
       <p>Unlike traditional games where the plot is presented directly, Elden Ring requires you to piece together the story from fragments scattered throughout the world. This guide aims to connect those fragments into a coherent narrative, helping you understand the <strong>elden ring plot</strong> and the motivations of its characters.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop" alt="Dark atmospheric scene representing the complex lore of Elden Ring" loading="lazy" />
-        <figcaption>The lore of Elden Ring spans millennia of cosmic conflict, divine betrayal, and tragic heroism</figcaption>
-      </figure>
 
       <h2>The Creation of the World</h2>
       <p>The story of Elden Ring begins long before your character awakens. The world was shaped by the Greater Will, an outer god that sought to impose order on chaos. The Greater Will sent down the Elden Beast, a vassal god that became the Elden Ring - the physical manifestation of the Golden Order's laws.</p>
@@ -527,11 +462,6 @@ export const guidesPart2 = [
       <p>Queen Marika was devastated by the death of her son. In her grief, she shatter the Elden Ring, an act that fractured the world and scattered the Great Runes among her children. This event is known as the Shattering, and it plunged the Lands Between into chaos.</p>
 
       <p>The exact reasons for Marika's actions are unclear. Some believe she was driven mad by grief, while others think she was trying to prevent the Greater Will from using the Elden Ring to control the world. Her shadow, Maliketh, was tasked with guarding the Rune of Death, but failed to prevent its theft and use in Godwyn's assassination.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&h=450&fit=crop" alt="Dark landscape representing the tragic events of the Night of Black Knives in Elden Ring lore" loading="lazy" />
-        <figcaption>The Night of the Black Knives set in motion the catastrophic events that shattered the world</figcaption>
-      </figure>
 
       <h2>The Shattering and the Demigods' War</h2>
       <p>After the Elden Ring was shattered, the Demigods each claimed a Great Rune. However, without the unifying power of the complete Ring, the Runes began to corrupt their bearers, driving them mad with ambition and paranoia.</p>
@@ -601,11 +531,6 @@ export const guidesPart2 = [
 
       <h3>Free Will vs. Destiny</h3>
       <p>The conflict between the Greater Will's order and the Frenzied Flame's chaos represents the tension between destiny and free will. Are you destined to serve the Greater Will, or can you choose your own path? The endings offer different answers to this question.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1462332420958-a05d1e002413?w=800&h=450&fit=crop" alt="Dark art representing the philosophical themes and endings of Elden Ring" loading="lazy" />
-        <figcaption>The choices you make as Tarnished determine the fate of the entire world</figcaption>
-      </figure>
 
       <h2>Conclusion</h2>
       <p>Elden Ring's lore is intentionally complex and ambiguous, inviting players to piece together the story from fragments and form their own interpretations. This <strong>elden ring plot</strong> breakdown provides a foundation for understanding the narrative, but there's always more to discover.</p>

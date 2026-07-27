@@ -15,11 +15,6 @@ export const guidesZhPart1 = [
 
 <p>我们已经将数百小时的集体游戏经验浓缩为精华内容。没有废话，没有模糊的说教。只有当你在候愿教堂准备做出影响整个游戏流程的选择时，真正重要的<strong>如何开始艾尔登法环</strong>建议。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1504639725590-34f0676ar820?w=800&h=450&fit=crop" alt="褪色者踏上穿越交界地的史诗冒险" loading="lazy" />
-  <figcaption>你穿越交界地的旅程从离开候愿教堂的那一刻开始</figcaption>
-</figure>
-
 <h2>选择适合你直觉的初始职业</h2>
 
 <p>新手最常犯的错误就是在职业选择界面纠结十分钟。以下是老玩家早已知道的真相：<strong>艾尔登法环中的每个初始职业最终都能使用游戏中的所有武器、法术和盔甲。</strong>你的初始职业只决定你的初始属性和装备，仅此而已。</p>
@@ -38,11 +33,6 @@ export const guidesZhPart1 = [
 <h2>先探索再战斗：黄金法则</h2>
 
 <p>这份<strong>艾尔登法环新手指南</strong>中最重要的建议是：<strong>不要盲目跟随主线任务标记。</strong>艾尔登法环不是线性游戏，阻力最小的路径几乎总是通向侧面——进入洞穴、爬上悬崖、或穿过破碎的墙壁。</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&h=450&fit=crop" alt="充满神秘路径和隐藏秘密的奇幻景观" loading="lazy" />
-  <figcaption>交界地奖励那些偏离常规路径、踏入未知领域的探索者</figcaption>
-</figure>
 
 <p>当你离开候愿教堂到达宁姆格福后，你的本能可能是直奔风暴城。抵制这个冲动。游戏在温和地鼓励你先探索开放世界。以下是你应该做的事情：</p>
 
@@ -112,11 +102,6 @@ export const guidesZhPart1 = [
 
 <p>你从梅琳娜那里早期获得的<strong>孤狼灰烬</strong>在游戏的大部分进程中都非常实用。它们能吸引敌人仇恨，造成可观的伤害，并给你喘息的空间来治疗或重新定位。后期的灰烬如<strong>仿身泪滴</strong>成为游戏中最强大的工具之一。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=450&fit=crop" alt="黑暗大气的游戏场景，代表艾尔登法环中等待的挑战" loading="lazy" />
-  <figcaption>凭借知识和决心，交界地的每一项挑战都成为成长的机会</figcaption>
-</figure>
-
 <h2>最终思考</h2>
 
 <p>艾尔登法环是一款奖励耐心和好奇心胜过反应速度的游戏。如果你带着探索、学习和偶尔死亡的意愿去接近它，你将拥有人生中最具回报的游戏体验之一。将这份<strong>艾尔登法环新手指南</strong>作为基础，但不要害怕开辟自己的道路。交界地提供的东西远比任何单一指南所能捕捉的要多得多。</p>
@@ -140,11 +125,6 @@ export const guidesZhPart1 = [
 <p>艾尔登法环中的职业选择界面可能让人感到不知所措。十个职业，每个都有不同的属性分配、初始装备和隐含的游戏风格。选择<strong>艾尔登法环最佳初始职业</strong>不是要找到一个客观正确的答案。而是要将一个职业与你想要游戏的方式相匹配。本指南详细解析每个初始职业，解释每个职业擅长什么，并根据你偏好的风格告诉你应该选择哪一个。</p>
 
 <p>在我们深入之前要记住一件事：<strong>这里没有错误的选择。</strong>每个职业都能通关游戏。每个职业都能访问所有武器、法术和盔甲套装。你的初始职业塑造的是你旅程的前几个小时，而不是终点。话虽如此，某些职业确实无疑能让早期游戏比其他职业更顺畅。</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=450&fit=crop" alt="显示多个职业选项的游戏设置" loading="lazy" />
-  <figcaption>选择正确的初始职业为你整个艾尔登法环旅程奠定基础</figcaption>
-</figure>
 
 <h2>顶级梯队：适合大多数玩家的最佳艾尔登法环初始职业</h2>
 
@@ -192,11 +172,6 @@ export const guidesZhPart1 = [
 <p>占星者非常适合喜欢战术性、有条理战斗方法的玩家。你从安全距离学习敌人模式，选择你的射击时机，并仔细管理你的FP（专注点）。</p>
 
 <p><strong>早期游戏提示：</strong>前往艾雷教堂，一旦你有足够的卢恩，从卡勒那里购买毁灭星辰魔法。另外，从贤者街道废墟获取陨石杖——它具有S级智力缩放，在游戏相当一部分时间内都优于你的初始杖。</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&h=450&fit=crop" alt="显示艾尔登法环魔法战斗的游戏画面" loading="lazy" />
-  <figcaption>占星者职业提供毁灭性的魔法火力，能从安全距离融化boss</figcaption>
-</figure>
 
 <h2>中级梯队：可行但要求更高</h2>
 
@@ -256,11 +231,6 @@ export const guidesZhPart1 = [
 
 <p><strong>艾尔登法环最佳初始职业</strong>是那个让你兴奋想玩的职业。如果挥舞巨型锤子吸引你，选英雄。如果你想从天空投掷闪电，选先知。游戏足够长且足够灵活，任何职业都能成为任何样子。选择听起来有趣的，属性会随之而来。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&h=450&fit=crop" alt="代表艾尔登法环中无限可能的史诗游戏场景" loading="lazy" />
-  <figcaption>无论你选择哪个职业，交界地都为冒险和发现提供无尽的可能性</figcaption>
-</figure>
-
 `
   },
 
@@ -279,11 +249,6 @@ export const guidesZhPart1 = [
 <p>艾尔登法环中最常见的挫败感来源之一是遇到一个对你当前角色来说太强的boss。你自信地冲进去，被两招消灭，然后想知道你是否错过了某些关键内容。这份<strong>艾尔登法环boss顺序指南</strong>的存在就是为了解决这个问题。我们将按难度顺序带你了解<strong>艾尔登法环boss顺序</strong>，告诉你何时与每个boss战斗，并帮助你避免可能破坏整个体验的反复失败痛苦循环。</p>
 
 <p>艾尔登法环不是线性游戏。你在冒险的几乎每个阶段都有多条路径可用。但这种自由伴随着一个陷阱：如果你在错误的时间 wandered 进入错误的区域，你会遇到远超过你等级的敌人和boss。本指南描绘了理想的进程路径，让你总是有清晰的下一个目标。</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b2b0f?w=800&h=450&fit=crop" alt="代表艾尔登法环中威严boss的黑暗大气景观" loading="lazy" />
-  <figcaption>交界地的每个boss都以独特方式考验你的技能、耐心和准备</figcaption>
-</figure>
 
 <h2>第一次游戏的推荐boss顺序</h2>
 
@@ -327,11 +292,6 @@ export const guidesZhPart1 = [
 <li><strong>火焰巨人</strong>（等级80-90）——在巨人山顶发现。一个巨大、缓慢的boss，具有毁灭性的火焰攻击。竞技场很大，所以利用空间来闪避和恢复。</li>
 </ul>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?w=800&h=450&fit=crop" alt="代表艾尔登法环史诗级后期boss的黑暗奇幻艺术" loading="lazy" />
-  <figcaption>后期boss用毁灭性的攻击和复杂的机制将你的技能推向极限</figcaption>
-</figure>
-
 <h2>最终篇章：结束游戏</h2>
 
 <p>在巨人山顶之后，你进入游戏终局。以下是<strong>艾尔登法环boss顺序</strong>中的最终boss：</p>
@@ -364,11 +324,6 @@ export const guidesZhPart1 = [
 <li><strong>将活力提升到至少40。</strong>多承受一次攻击给你时间来学习boss的模式并从错误中恢复。</li>
 <li><strong>一次学习一个阶段。</strong>大多数boss有两到三个阶段。在担心第二阶段之前，先专注于稳定地存活过第一阶段。</li>
 </ul>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1533613223302-c0e7e479b5c9?w=800&h=450&fit=crop" alt="代表艾尔登法环boss战斗强度的戏剧性黑暗场景" loading="lazy" />
-  <figcaption>耐心和准备是克服即使最具挑战性boss的关键</figcaption>
-</figure>
 
 <h2>最终思考</h2>
 

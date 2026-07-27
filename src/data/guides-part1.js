@@ -8,18 +8,13 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 12,
-    image: "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/33a097959a43e4249d9f6a812d7eec29.jpeg",
     content: `
 <h2>Welcome to the Lands Between: Your Elden Ring Beginner Guide</h2>
 
 <p>If you have picked up Elden Ring and are staring at the screen wondering where on earth to start, take a deep breath. You are not alone. FromSoftware's open-world masterpiece is simultaneously the most accessible and most intimidating game the studio has ever made. This <strong>Elden Ring beginner guide</strong> is designed to give you the exact <strong>Elden Ring tips for beginners</strong> you need to not just survive, but genuinely enjoy the first dozen hours of the game without rage-quitting into the void.</p>
 
 <p>We have boiled down hundreds of hours of collective playtime into the essentials. No fluff, no vague platitudes. Just the <strong>how to start Elden Ring</strong> advice that actually matters when you are standing in the Chapel of Expectation about to make choices that will shape your entire playthrough.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?w=800&h=450&fit=crop" alt="Tarnished embarking on an epic adventure through the Lands Between" loading="lazy" />
-  <figcaption>Your journey through the Lands Between begins the moment you leave the Chapel of Expectation</figcaption>
-</figure>
 
 <h2>Pick a Starting Class That Matches Your Instincts</h2>
 
@@ -39,11 +34,6 @@ export const guidesPart1 = [
 <h2>Explore Before You Fight: The Golden Rule</h2>
 
 <p>The single most important piece of advice in this entire <strong>Elden Ring beginner guide</strong> is this: <strong>do not follow the main quest markers blindly.</strong> Elden Ring is not a linear game, and the path of least resistance almost always goes sideways, into a cave, down a cliff, or through a broken wall.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=450&fit=crop" alt="Fantasy landscape with mysterious pathways and hidden secrets" loading="lazy" />
-  <figcaption>The Lands Between reward those who wander off the beaten path into uncharted territory</figcaption>
-</figure>
 
 <p>When you arrive in Limgrave after leaving the Chapel of Expectation, your instinct might be to charge straight toward Stormveil Castle. Resist that urge. The game is gently encouraging you to explore the open world first. Here is what you should do instead:</p>
 
@@ -113,11 +103,6 @@ export const guidesPart1 = [
 
 <p>The <strong>Lone Wolf Ashes</strong> you receive early from Melina are genuinely useful through a significant portion of the game. They draw enemy aggro, deal respectable damage, and give you breathing room to heal or reposition. Later ashes like the <strong>Mimic Tear</strong> become some of the most powerful tools in the game.</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1519608919302-d3d0a34b5ab5?w=800&h=450&fit=crop" alt="Dark atmospheric gaming scene representing the challenges awaiting in Elden Ring" loading="lazy" />
-  <figcaption>Armed with knowledge and determination, every challenge in the Lands Between becomes an opportunity to grow</figcaption>
-</figure>
-
 <h2>Final Thoughts</h2>
 
 <p>Elden Ring is a game that rewards patience and curiosity above reflexes. If you approach it with a willingness to explore, learn, and die occasionally, you will have one of the most rewarding gaming experiences of your life. Use this <strong>Elden Ring beginner guide</strong> as a foundation, but do not be afraid to forge your own path. The Lands Between have far more to offer than any single guide can capture.</p>
@@ -135,18 +120,13 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 10,
-    image: "https://images.unsplash.com/photo-1534423569506-297286f05d2f?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/376349617bc0332206d480ed3958d95a.jpeg",
     content: `
 <h2>Choosing the Best Starting Class in Elden Ring</h2>
 
 <p>The class selection screen in Elden Ring can feel overwhelming. Ten classes, each with different stat spreads, starting gear, and implied playstyles. Picking the <strong>best starting class in Elden Ring</strong> is not about finding one objectively correct answer. It is about matching a class to the way you want to play the game. This guide breaks down every starting class, explains what each one excels at, and tells you which one you should pick based on your preferred style.</p>
 
 <p>One thing to keep in mind before we dive in: <strong>there are no wrong choices here.</strong> Every class can complete the game. Every class can access every weapon, spell, and armor set. Your starting class shapes the first few hours of your journey, not the destination. With that said, some classes undeniably make the early game smoother than others.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1519681393784-d128010d6cb0?w=800&h=450&fit=crop" alt="Gaming setup with multiple class options displayed on screen" loading="lazy" />
-  <figcaption>Choosing the right starting class sets the foundation for your entire Elden Ring journey</figcaption>
-</figure>
 
 <h2>The Top Tier: Best Elden Ring Starter Classes for Most Players</h2>
 
@@ -194,11 +174,6 @@ export const guidesPart1 = [
 <p>The Astrologer is excellent for players who enjoy a tactical, methodical approach to combat. You learn enemy patterns from a safe distance, pick your shots, and manage your FP (Focus Points) carefully.</p>
 
 <p><strong>Early game tip:</strong> Head to the Church of Elleh and buy theStars of Ruin sorcery from Kalé once you have enough runes. Also, grab the Meteorite Staff from the Street of Sages Ruins — it has S-rank Intelligence scaling and outclasses your starting staff for a significant portion of the game.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1a2b3c4d5e6f-a1b2c3d4e5f6?w=800&h=450&fit=crop" alt="Gaming screen showing magical combat in Elden Ring" loading="lazy" />
-  <figcaption>The Astrologer class offers devastating magical firepower that can melt bosses from a safe distance</figcaption>
-</figure>
 
 <h2>The Mid Tier: Viable but Demanding</h2>
 
@@ -258,11 +233,6 @@ export const guidesPart1 = [
 
 <p>The <strong>best starting class in Elden Ring</strong> is the one that makes you excited to play. If the idea of swinging a colossal hammer appeals to you, pick the Hero. If you want to fling lightning from the sky, pick the Prophet. The game is long enough and flexible enough that any class can become anything. Pick what sounds fun, and the stats will follow.</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=450&fit=crop" alt="Epic gaming scene representing the vast possibilities in Elden Ring" loading="lazy" />
-  <figcaption>No matter which class you choose, the Lands Between offer endless possibilities for adventure and discovery</figcaption>
-</figure>
-
 `
   },
 
@@ -275,18 +245,13 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 15,
-    image: "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/5db75c9ba53bce2d30d79dc505e75270.jpeg",
     content: `
 <h2>The Complete Elden Ring Boss Order Guide</h2>
 
 <p>One of the most common sources of frustration in Elden Ring is running into a boss that is simply too strong for your current character. You charge in confidently, get annihilated in two hits, and wonder if you missed some crucial piece of content. This <strong>Elden Ring boss order guide</strong> exists to solve that problem. We will walk you through <strong>Elden Ring bosses in order</strong> of difficulty, tell you when to fight each one, and help you avoid the painful cycle of repeated defeats that can sour the entire experience.</p>
 
 <p>Elden Ring is not a linear game. You have multiple paths available at almost every stage of the adventure. But that freedom comes with a catch: if you wander into the wrong area at the wrong time, you will encounter enemies and bosses that far exceed your level. This guide maps out the ideal progression path so you always have a clear next target.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1482192505345-5655af888cc4?w=800&h=450&fit=crop" alt="Dark atmospheric landscape representing the imposing bosses of Elden Ring" loading="lazy" />
-  <figcaption>Every boss in the Lands Between tests your skills, patience, and preparation in unique ways</figcaption>
-</figure>
 
 <h2>Recommended Boss Order for Your First Playthrough</h2>
 
@@ -330,11 +295,6 @@ export const guidesPart1 = [
 <li><strong>Fire Giant</strong> (Level 80-90) — Found at the Mountaintops of the Giants. A huge, slow boss with devastating fire attacks. The arena is large, so use the space to dodge and recover.</li>
 </ul>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&h=450&fit=crop" alt="Dark fantasy art representing the epic final bosses of Elden Ring" loading="lazy" />
-  <figcaption>The late-game bosses push your skills to the limit with devastating attacks and complex mechanics</figcaption>
-</figure>
-
 <h2>The Final Act: Ending the Game</h2>
 
 <p>After the Mountaintops of the Giants, you enter the endgame. These are the final bosses in the <strong>Elden Ring bosses in order</strong> sequence:</p>
@@ -368,11 +328,6 @@ export const guidesPart1 = [
 <li><strong>Learn one phase at a time.</strong> Most bosses have two or three phases. Focus on surviving phase one consistently before worrying about phase two.</li>
 </ul>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&h=450&fit=crop" alt="Dramatic dark scene representing the intensity of Elden Ring boss battles" loading="lazy" />
-  <figcaption>Patience and preparation are the keys to overcoming even the most challenging bosses</figcaption>
-</figure>
-
 <h2>Final Thoughts</h2>
 
 <p>This <strong>Elden Ring boss guide</strong> is designed to help you experience the game in the order the developers intended, with a smooth difficulty curve that builds your skills gradually. But remember: the beauty of Elden Ring is that you can forge your own path. If you want to fight Malenia at level 30, go for it. If you want to clear every optional boss before touching the main story, that works too. The Lands Between are yours to explore.</p>
@@ -388,18 +343,13 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 14,
-    image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/5ed7d006f00853f92c1fe33bcf2d7991.jpeg",
     content: `
 <h2>The Best Elden Ring Builds for 2024</h2>
 
 <p>Building your character in Elden Ring is one of the most rewarding parts of the game. The sheer number of weapons, spells, talismans, and ash of war options means you can create something truly unique. But with so many possibilities, it is hard to know which builds are actually effective. This guide covers the <strong>best Elden Ring builds</strong> for 2024, including the current <strong>Elden Ring meta build</strong> options for PvP, the most powerful PvE setups, and a few creative builds that are just plain fun to play.</p>
 
 <p>Whether you are clearing the hardest areas in the game, invading other players' worlds, or just want a character that feels powerful and satisfying to use, there is a build here for you.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a?w=800&h=450&fit=crop" alt="Dramatic sky representing the epic builds in Elden Ring" loading="lazy" />
-  <figcaption>Building the perfect character is one of the most rewarding aspects of Elden Ring</figcaption>
-</figure>
 
 <h2>The Meta Build: Bleed Samurai (PvP and PvE)</h2>
 
@@ -470,11 +420,6 @@ export const guidesPart1 = [
 
 <p>Sorcery is about positioning and resource management. Stay at range, pick your shots, and manage your FP carefully. Use Terra Magica before big fights to boost all your spell damage. In PvP, the Comet Azur build is feared for a reason — one full-channel cast can delete a player. But you are vulnerable during the cast, so positioning is everything.</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1528761203-4bc4dfe8a0b4?w=800&h=450&fit=crop" alt="Fantasy scene representing magical combat builds in Elden Ring" loading="lazy" />
-  <figcaption>Caster builds offer devastating magical firepower that can turn the tide of any battle</figcaption>
-</figure>
-
 <h2>The Faith Caster: Incantation Paladin</h2>
 
 <p>Faith builds are the most versatile in the game. You can heal, buff, deal fire damage, lightning damage, and even some holy damage. The Faith Paladin mixes melee combat with supportive incantations for a well-rounded playstyle.</p>
@@ -529,11 +474,6 @@ export const guidesPart1 = [
 
 <p>Walk slowly toward enemies, block their attacks with your greatshield, and then unleash dragon breath into their face. It is absurdly fun and surprisingly effective. The combination of high Poise, massive damage reduction, and fire breath makes you feel like an unstoppable force of nature.</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1536644821-a3c5e0d4f9b7?w=800&h=450&fit=crop" alt="Adventure scene representing the diverse playstyles in Elden Ring" loading="lazy" />
-  <figcaption>The beauty of Elden Ring is that every build offers a unique way to experience the Lands Between</figcaption>
-</figure>
-
 <h2>Which Build Is Right for You?</h2>
 
 <p>The <strong>best Elden Ring build</strong> is the one you enjoy playing. If you want maximum effectiveness, the Bleed Samurai is the <strong>Elden Ring meta build</strong> for a reason. If you want spectacle, the sorcerer or dragon tank builds are unforgettable. If you want versatility, the faith paladin covers every situation.</p>
@@ -551,18 +491,13 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 11,
-    image: "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=800&h=500&fit=crop",
+    image: "/elden-ring-guide/images/5f69e7fc3ec7dedc0b7756c5c9745967.jpeg",
     content: `
 <h2>Elden Ring Secrets That Will Blow Your Mind</h2>
 
 <p>Elden Ring is massive. Even after hundreds of hours, most players have not seen everything the game has to offer. From <strong>Elden Ring hidden bosses</strong> tucked behind illusory walls to <strong>Elden Ring secrets and tricks</strong> that completely change how certain areas work, there is always something new to discover. This guide collects some of the best-kept secrets in the game, including hidden areas, missable content, and tricks that even veteran players frequently overlook.</p>
 
 <p>If you thought you had explored every corner of the Lands Between, prepare to be surprised. Some of these secrets fundamentally change how you understand the world and its lore.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=800&h=450&fit=crop" alt="Mysterious tech/cyber scene representing hidden secrets in Elden Ring" loading="lazy" />
-  <figcaption>The Lands Between hide countless secrets waiting to be uncovered by curious explorers</figcaption>
-</figure>
 
 <h2>Hidden Bosses You Probably Missed</h2>
 
@@ -602,11 +537,6 @@ export const guidesPart1 = [
 
 <p>Beneath the Lands Between lies an entire underground world called the Deeproot Depths. It is accessible through multiple paths, including a hidden well in the Siofra Aqueduct and a path through Nokron. The Deeproot Depths contain some of the most important lore in the game, including the truth about Godwyn the Golden, the Prince of Death, and the origins of the Those Who Live in Death.</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-12b3c4d5e6f7a-b2c3d4e5f6a1w=800&h=450&fit=crop" alt="Dark mysterious underground world representing hidden areas in Elden Ring" loading="lazy" />
-  <figcaption>The Deeproot Depths hold some of the most important lore secrets in the entire game</figcaption>
-</figure>
-
 <h2>Secrets and Tricks That Change Everything</h2>
 
 <p>Beyond hidden areas and bosses, Elden Ring is full of <strong>Elden Ring secrets and tricks</strong> that can dramatically change your gameplay experience.</p>
@@ -640,11 +570,6 @@ export const guidesPart1 = [
 <li><strong>Marika is the true villain of the story.</strong> Or at least, she is the most morally complex character in the game. Her actions set the entire story in motion, and her motivations are revealed gradually through her interactions with Radagon, Godfrey, and the Tarnished.</li>
 <li><strong>The Tarnished are not the heroes.</strong> You are not the chosen one. You are one of many exiled warriors being manipulated by multiple factions, each of which wants to use you for their own ends. The game's multiple endings reflect this ambiguity — there is no purely "good" ending.</li>
 </ul>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo3c4d5e6f7a8b-c3d4e5f6a1b27?w=800&h=450&fit=crop" alt="Dark atmospheric scene representing the complex lore of Elden Ring" loading="lazy" />
-  <figcaption>The lore of Elden Ring runs deeper than most players realize, with secrets hidden in every corner</figcaption>
-</figure>
 
 <h2>Final Thoughts</h2>
 

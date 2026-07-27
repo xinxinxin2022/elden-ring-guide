@@ -8,7 +8,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 12,
-    image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=500&fit=crop',
+    image: '/elden-ring-guide/images/a9f05abf.jpg',
     content: `
       <p>Malenia, Blade of Miquella stands as Elden Ring's most notorious boss, a challenge that has claimed countless Tarnished lives since the game's release. Located at the base of the Haligtree after conquering one of the most difficult legacy dungeons in the game, Malenia represents the ultimate test of skill, patience, and build optimization. This comprehensive guide will walk you through everything you need to know to defeat her, from exploiting her weaknesses to executing perfect dodges during her infamous Waterfowl Dance.</p>
 
@@ -17,11 +17,6 @@ export const guidesNewPart1 = [
       <p>Reaching Malenia requires completing the Haligtree dungeon, which begins at the Consecrated Snowfield. You'll need to solve the complex puzzle involving two halves of the Haligtree Secret Medallion, accessible through a specific sequence of events starting in the Village of the Albinaurics. The dungeon itself is filled with challenging enemies, including Kindred of Rot and Cleanrot Knights, so ensure you're adequately prepared before attempting this gauntlet.</p>
 
       <p>Before facing Malenia, stock up on these essentials: <strong>+25 Boluses</strong> (particularly Golden Vow or Exalted Flesh), maximum healing flasks, and resistance-boosting items. Your recommended level is 150+, with Vigor at 40-50 to survive her devastating attacks. If you're attempting a no-damage run, focus on memorizing her move patterns and perfecting your dodge timing.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1536440136628-849c17695786?w=800&h=450&fit=crop" alt="Dark dramatic atmosphere representing Malenia's challenging boss fight" loading="lazy" />
-        <figcaption>The Haligtree dungeon culminates in Elden Ring's most challenging boss encounter</figcaption>
-      </figure>
 
       <h2>Understanding Malenia's Weaknesses</h2>
 
@@ -47,11 +42,6 @@ export const guidesNewPart1 = [
       <p>Malenia's thrust moves are telegraphed by her pulling her blade back. <strong>Dodge to the side (left is generally safer)</strong> rather than backward, as her thrust has incredible range and can catch you even at medium distance.</p>
 
       <p>During Phase 1, maintain medium distance to bait her attacks while staying close enough to punish recovery frames. <strong>Never get greedy with attacks</strong>—2-3 hits maximum before repositioning. Her health pool is substantial, so patience is essential.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=450&fit=crop" alt="Technology dark theme representing strategic boss fight analysis" loading="lazy" />
-        <figcaption>Understanding Malenia's attack patterns is crucial for survival</figcaption>
-      </figure>
 
       <h2>Phase 2: The Scarlet Rot Goddess</h2>
 
@@ -103,11 +93,6 @@ export const guidesNewPart1 = [
 
       <p><strong>Cooperators:</strong> If using multiplayer, coordinate with your summon before engaging. Have them focus on healing or ranged attacks while you draw Malenia's aggression.</p>
 
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1604076913837-52ab5f0b5e5e?w=800&h=450&fit=crop" alt="Fire flames representing Malenia's fire weakness exploitation" loading="lazy" />
-        <figcaption>Fire-based attacks are particularly effective against Malenia's second phase</figcaption>
-      </figure>
-
       <h2>No-Damage Tips and Advanced Techniques</h2>
 
       <p>Achieving a no-damage victory against Malenia requires mastery of several techniques:</p>
@@ -157,7 +142,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 15,
-    image: 'https://images.unsplash.com/photo-1605870445919-838d190e8e1b?w=800&h=500&fit=crop',
+    image: '/elden-ring-guide/images/347deec4.jpg',
     content: `
       <p>The Shadow of the Erdtree DLC expands Elden Ring's already massive world with new regions, quests, and some of the most challenging hidden bosses in the entire game. While main story bosses like Messmer the Impaler and Radahn's second phase are well-documented, the DLC contains numerous secret and optional bosses that many players miss on their first playthrough. This comprehensive guide reveals every hidden boss location, recommended levels, and strategies for defeating them.</p>
 
@@ -172,11 +157,6 @@ export const guidesNewPart1 = [
       <p>While not technically part of the DLC, Placidusax gains new significance as lore connections to the Shadow Realm become apparent. To reach this ancient dragon boss, you must find the hidden path in Crumbling Farum Azula. After defeating the main boss, return to the site of grace "Beside the Great Bridge." Take the elevator down and follow the path until you reach a large plaza. Look for a phantom wall on the right side—walk through it to access the secret area where Placidusax awaits.</p>
 
       <p><strong>Strategy:</strong> Placidusax uses devastating lightning attacks and can teleport around the arena. Stay aggressive during his ground phase, but be ready to dodge his lightning storms. The "Lightningproof Dried Liver" consumable significantly reduces lightning damage taken. His most dangerous attack is the "Rule of Death" laser—when he flies up and charges this attack, run perpendicular to his position to avoid it.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1484618544432-4cf63410776c?w=800&h=450&fit=crop" alt="Fantasy dark atmosphere representing hidden boss encounters" loading="lazy" />
-        <figcaption>Hidden bosses like Dragonlord Placidusax reward thorough exploration</figcaption>
-      </figure>
 
       <h2>DLC Secret Bosses: Complete List</h2>
 
@@ -197,11 +177,6 @@ export const guidesNewPart1 = [
       <p>This optional boss is found in the Forgotten Cemetery, a hidden area accessible through a puzzle in the Eastern Catacombs. After reaching the "Catacombs of Shadow" site of grace, explore the lower levels until you find a room with four tombstones. Examine them in the correct order (left to right, based on the rune symbols) to open a secret passage leading to the cemetery.</p>
 
       <p>The Gravekeeper wields a massive greatshield and hammer, making him incredibly defensive. <strong>Strategy:</strong> Use magic or ranged attacks to chip away at his health while staying outside his attack range. If playing melee, wait for his hammer slam attack, then circle behind him for 2-3 hits. His "Earth Shatter" attack creates shockwaves—jump to avoid the initial slam, then dodge roll through the shockwave. At 30% health, he enters a rage state with faster attacks but reduced defense—this is your window to finish him.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1551103782-8ab07afd45c2?w=800&h=450&fit=crop" alt="Gaming screen displaying intense boss battle" loading="lazy" />
-        <figcaption>Optional bosses like the Gravekeeper offer unique challenges and rare rewards</figcaption>
-      </figure>
 
       <h3>3. Twin Dragon Knights</h3>
       <p><strong>Location:</strong> Dragon's Roost Arena, Central Shadow Realm</p>
@@ -231,11 +206,6 @@ export const guidesNewPart1 = [
       <p>The most well-hidden boss in the DLC, the Forgotten King is found in the Sunken Palace, accessible only after completing a multi-step puzzle involving collecting four ancient coins scattered throughout the Shadow Realm. The palace entrance is located at the bottom of the Abyssal Lake, reachable through a hidden waterfall in the northern mountains.</p>
 
       <p>The Forgotten King is a master swordsman with incredibly fast and varied attacks. <strong>Strategy:</strong> This fight is pure skill—learn his combo patterns and punish recovery frames. His "Royal Decree" attack creates a massive sword wave—dodge roll through it at the last moment. At 60% health, he draws a second sword, dual-wielding with increased speed. Use "Bloodhound's Step" to create distance and reset. The fight is a test of patience and precision, but the rewards are well worth the effort.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1490750967868-88aa4f5e2b5c?w=800&h=450&fit=crop" alt="Dark game atmosphere representing challenging DLC content" loading="lazy" />
-        <figcaption>The Forgotten King represents the pinnacle of DLC boss design</figcaption>
-      </figure>
 
       <h2>General Strategies for DLC Secret Bosses</h2>
 
@@ -284,7 +254,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 14,
-    image: 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&h=500&fit=crop',
+    image: '/elden-ring-guide/images/c1f5d8e7228cb706bc309c355f88a83f.jpeg',
     content: `
       <p>Talismans are among the most powerful customization tools in Elden Ring, providing passive bonuses that can dramatically enhance your build's effectiveness. While many players focus on weapons and armor, the right talisman combination can be the difference between victory and defeat in challenging encounters. This guide covers the best talismans for every build archetype, where to find them, and how to optimize your talisman slot management for maximum effectiveness.</p>
 
@@ -309,11 +279,6 @@ export const guidesNewPart1 = [
       <p><strong>Location:</strong> Dropped by the Great Jar in Caelid after completing his three-container challenge</p>
 
       <p>Great-Jar's Arsenal is essential for builds that want to wear heavy armor without sacrificing mobility. The massive equip load boost allows you to maintain medium roll while wearing some of the game's heaviest armor sets, significantly improving your damage negation and poise. <strong>Best for:</strong> Strength builds, Faith builds with heavy incantations, and any build prioritizing survivability.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1518709766631-a6a7f45921c4?w=800&h=450&fit=crop" alt="Fantasy armor representing talisman-enhanced character builds" loading="lazy" />
-        <figcaption>High-tier talismans like Erdtree's Favor dramatically enhance build effectiveness</figcaption>
-      </figure>
 
       <h2>Best Talismans for Melee Builds</h2>
 
@@ -354,11 +319,6 @@ export const guidesNewPart1 = [
       <p><strong>Location:</strong> Found in the Raya Lucaria Academic Temple, requiring a complex traversal</p>
 
       <p>Radagon Icon reduces spell casting speed, allowing you to cast sorceries and incantations faster. This is particularly valuable for builds using slow but powerful spells like "Comet Azspell" or "Stars of Ruin," as it reduces the vulnerability window during casting. <strong>Best for:</strong> Builds using slow, high-damage spells, PvP builds that need faster cast times.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1492681265877-a34f1530b613?w=800&h=450&fit=crop" alt="Retro gaming theme representing build optimization" loading="lazy" />
-        <figcaption>Magic builds benefit greatly from talismans that enhance spell potency and casting speed</figcaption>
-      </figure>
 
       <h2>Best Talismans for Faith Builds</h2>
 
@@ -412,11 +372,6 @@ export const guidesNewPart1 = [
       </ul>
 
       <p><strong>Slot Priority:</strong> For most builds, prioritize universal talismans like Radagon's Soreseal and Erdtree's Favor in your first three slots. Use the fourth slot for build-specific talismans or situational swaps for specific bosses.</p>
-
-      <figure class="article-image">
-        <img src="https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=800&h=450&fit=crop" alt="Gaming controller representing player customization and control" loading="lazy" />
-        <figcaption>Proper talisman slot management is crucial for build optimization</figcaption>
-      </figure>
 
       <h2>Optimal Talisman Loadouts by Build</h2>
 

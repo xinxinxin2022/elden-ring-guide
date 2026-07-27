@@ -10,14 +10,9 @@ export const guidesNewPart2 = [
     updatedDate: '2026-07-27',
     readTime: 14,
     image:
-      'https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=800&h=500&fit=crop',
+      '/elden-ring-guide/images/132b9900b6b4fe24a8fd89715db4bbfe.jpeg',
     content: `
 <p>The <strong>Shadow of the Erdtree</strong> DLC didn't just add new bosses — it completely rewrote the Elden Ring meta. After months of patch tuning through 2025 and into early 2026, a handful of builds have emerged as the true "endgame" choices for both PvE and the occasional PvP incursion. Whether you're tearing through the Realm of Shadow for the first time or min-maxing for optimal clear speed, these six builds represent the peak of what's viable right now.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1578303512597-79734b9b0b34?w=800&h=450&fit=crop" alt="Dark warrior silhouette standing in shadow" loading="lazy" />
-  <figcaption>The DLC meta favors builds that stack status effects with raw burst damage.</figcaption>
-</figure>
 
 <h2>1. Beast Claws Bleed Build — The Bleed King of 2026</h2>
 <p>The Beast Claws have become the defining weapon of the DLC meta after the 1.14 buff raised their bleed proc rate by roughly 18%. When paired with the right talismans, this build melts bosses in under 40 seconds.</p>
@@ -71,11 +66,6 @@ export const guidesNewPart2 = [
 </ul>
 <p><strong>Why it works:</strong> The Aromatic Vial talisman (added in patch 1.12) lets you maintain three perfume effects simultaneously — something that used to require constant reapplication. Combined with Godfrey Icon, charged perfume throws hit for 2-3x the normal damage.</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e6?w=800&h=450&fit=crop" alt="Dramatic sky with dark storm clouds" loading="lazy" />
-  <figcaption>DLC bosses demand both offense and defense — the Dark Paladin delivers both.</figcaption>
-</figure>
-
 <h2>3. Dark Paladin Build — Faith-Tank Hybrid</h2>
 <p>The Blasphemous Blade received significant buffs in 2025, making the Dark Paladin one of the most forgiving DLC builds. You get healing on hit, massive fire damage, and 50+ poise from greatshield play.</p>
 
@@ -121,11 +111,6 @@ export const guidesNewPart2 = [
   <li><strong>Armor:</strong> White Mask + Raptor's Black Feathers (boosts jump attacks)</li>
 </ul>
 <p><strong>Why it works:</strong> Martial arts builds hit 10-15 times per second, which is perfect for proccing bleed and frost simultaneously. The Rotten Winged Sword Insignia reaches its third tier almost instantly, granting +20% attack power permanently during any fight. Jumping heavy attacks from the Raptor's Black Feathers add another 35% damage on top.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1552820728-8b83bb6b2b08?w=800&h=450&fit=crop" alt="Dark landscape with moody lighting" loading="lazy" />
-  <figcaption>Rivers of Blood is still a top contender, but the new sorcery build has caught up.</figcaption>
-</figure>
 
 <h2>5. Rivers of Blood + Fire Build — The Classic, Reborn</h2>
 <p>Rivers of Blood was nerfed in patch 1.09 but buffed again in 1.13. The 2026 meta has settled on a fire-centric variant that's stronger than the original launch version.</p>
@@ -191,14 +176,9 @@ export const guidesNewPart2 = [
     updatedDate: '2026-07-27',
     readTime: 11,
     image:
-      'https://images.unsplash.com/photo-1614624532983-4ce03382d96f?w=800&h=500&fit=crop',
+      '/elden-ring-guide/images/11fdffcb237a6f883d7326ab13166e45.jpeg',
     content: `
 <p>Elden Ring's leveling curve is punishing if you don't know where to farm. A player who grinds inefficiently can spend hours stuck on a single boss, while a player who knows the right spots can blast past content that should be far above their level. This 2026 guide breaks down the best rune farming methods for every stage of the game — from the 2,000-rune-per-run Gatefront method to the absurd 10 million+ runes per hour Mohgwyn Palace loop.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1560393464-5c680a5a5a5d?w=800&h=450&fit=crop" alt="Golden fire magic illuminating darkness" loading="lazy" />
-  <figcaption>Knowing where to farm runes is the difference between a struggle and a breeze.</figcaption>
-</figure>
 
 <h2>Early Game Rune Farms (Levels 1-30)</h2>
 <p>The early game is all about efficiency. You're limited in mobility, your damage is low, and you need every rune. These three spots get you from level 1 to level 30 in under 90 minutes.</p>
@@ -254,11 +234,6 @@ export const guidesNewPart2 = [
   <li><strong>Recommended level:</strong> 50-70</li>
 </ul>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919768?w=800&h=450&fit=crop" alt="Abstract tech circuit pattern" loading="lazy" />
-  <figcaption>Mohgwyn Palace is the king of rune farming — here's how to set it up.</figcaption>
-</figure>
-
 <h2>Late-Game Rune Farms (Levels 80-150)</h2>
 <p>The late game is where the big numbers happen. The best farm in the entire game lives here.</p>
 
@@ -300,11 +275,6 @@ export const guidesNewPart2 = [
   <li><strong>Streaky Shard (DLC):</strong> +15% rune gain for 2 minutes (found in the Realm of Shadow)</li>
 </ul>
 <p><strong>Combined total:</strong> 20% + 30% + 15% = <strong>75% more runes</strong> from every kill. On the Mohgwyn Palace farm, this turns a 10-million-rune-per-hour session into a 17.5-million-rune-per-hour session. Always consume the Gold-Pickled Fowl Foot <em>before</em> starting your farm loop, and keep the Gold Scarab equipped at all times.</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1533613223302-c0e7e4ae5ba0?w=800&h=450&fit=crop" alt="Dark atmospheric scene with golden light" loading="lazy" />
-  <figcaption>Stack your rune multipliers and the levels will come fast.</figcaption>
-</figure>
 
 <h2>Recommended Levels for Major Boss Areas</h2>
 <p>If you're following this farming guide and wondering when to move on to the next area, here are the community-recommended levels for each major boss in 2026:</p>

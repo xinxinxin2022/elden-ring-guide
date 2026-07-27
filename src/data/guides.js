@@ -10,7 +10,8 @@ import { guidesZhPart2b as zhPart2b } from './guides-zh-part2b.js'
 import { guidesZhNewPart1 as zhNewPart1 } from './guides-zh-new-part1.js'
 import { guidesZhNewPart2 as zhNewPart2 } from './guides-zh-new-part2.js'
 
-const enGuides = [...enPart1, ...enPart2, ...enNewPart1, ...enNewPart2]
+// New articles first, then old ones
+const enGuides = [...enNewPart1, ...enNewPart2, ...enPart1, ...enPart2]
 const zhGuides = [...zhPart1, ...zhPart1b, ...zhPart2a, ...zhPart2b, ...zhNewPart1, ...zhNewPart2]
 
 // Merge EN + ZH by slug — if ZH exists, create bilingual object; otherwise keep EN string

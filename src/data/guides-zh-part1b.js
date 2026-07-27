@@ -11,11 +11,6 @@ export const guidesZhPart1b = [
 
 <p>无论你是在挑战游戏中最难的区域、入侵其他玩家的世界，还是只想打造一个手感强大、玩起来畅快淋漓的角色，这里都能找到适合你的Build。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=800&h=450&fit=crop" alt="代表艾尔登法环史诗级Build的壮丽天空" loading="lazy" />
-  <figcaption>打造完美角色是《艾尔登法环》中最具成就感的体验之一</figcaption>
-</figure>
-
 <h2>Meta级Build：出血武士（PvP与PvE通吃）</h2>
 
 <p>如果你想要2024年<strong>最强的艾尔登法环Build</strong>，同时兼顾PvP和PvE，那么出血武士当之无愧。自游戏发售以来，这个Build一直统治着Meta，并且丝毫没有退环境的趋势。以下是它如此强势的原因：</p>
@@ -85,11 +80,6 @@ export const guidesZhPart1b = [
 
 <p>魔法玩法的核心在于走位与资源管理。保持距离，谨慎选择出手时机，合理分配FP。大型战斗前先使用"魔法之境"提升所有法术伤害。在PvP中，彗星苍穹Build令人闻风丧胆——完整蓄力一发就能秒杀一名玩家。但施法过程中你非常脆弱，因此站位就是一切。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&h=450&fit=crop" alt="代表艾尔登法环魔法战斗的奇幻场景" loading="lazy" />
-  <figcaption>施法者Build拥有毁灭性的魔法火力，足以扭转任何战局</figcaption>
-</figure>
-
 <h2>信仰施法者：祷告圣骑士</h2>
 
 <p>信仰Build是游戏中最万能的流派。你可以治疗、增益、造成火焰伤害、雷电伤害，甚至神圣伤害。信仰圣骑士将近战与辅助祷告结合，打造出均衡而全面的战斗风格。</p>
@@ -144,11 +134,6 @@ export const guidesZhPart1b = [
 
 <p>缓慢地向敌人推进，用大盾格挡他们的攻击，然后对着他们的脸喷出龙息。这种玩法荒谬地有趣，而且效果出奇地好。高韧性、巨额减伤加上火焰喷吐，让你成为一股势不可挡的自然之力。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1504639725590-34f0676ar820?w=800&h=450&fit=crop" alt="代表艾尔登法环多样化玩法的冒险场景" loading="lazy" />
-  <figcaption>《艾尔登法环》的魅力在于每个Build都能带来独特的交界地体验</figcaption>
-</figure>
-
 <h2>哪个Build最适合你？</h2>
 
 <p>最强的<strong>艾尔登法环Build</strong>永远是你玩得最开心的那个。如果你追求最大效能，出血武士作为<strong>艾尔登法环Meta Build</strong>自有其统治地位的理由。如果你追求视觉震撼，魔法师或龙坦克Build将令你终生难忘。如果你追求全能，信仰圣骑士可以应对任何情况。</p>
@@ -167,11 +152,6 @@ export const guidesZhPart1b = [
 <p>《艾尔登法环》的世界浩瀚无垠。即便游玩数百小时，大多数玩家依然未能领略游戏的全部面貌。从隐藏在幻影墙后的<strong>艾尔登法环隐藏Boss</strong>，到彻底改变区域机制的<strong>艾尔登法环秘密与技巧</strong>，总有新事物等待被发现。本攻略汇集了游戏中最鲜为人知的秘密，包括隐藏区域、易错过的内容，以及即便是资深玩家也常常忽略的技巧。</p>
 
 <p>如果你以为自己已经探索了交界地的每一个角落，那么请准备好被震撼吧。其中一些秘密将彻底颠覆你对这个世界及其背景故事的认知。</p>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&h=450&fit=crop" alt="代表艾尔登法环隐藏秘密的神秘科技场景" loading="lazy" />
-  <figcaption>交界地隐藏着无数秘密，等待着好奇的探索者去揭开</figcaption>
-</figure>
 
 <h2>你可能错过的隐藏Boss</h2>
 
@@ -211,11 +191,6 @@ export const guidesZhPart1b = [
 
 <p>在交界地的地下，隐藏着名为深根底层的庞大地下世界。它可以通过多条路径到达，包括塞夫拉水道中一口隐蔽的井以及穿过诺克隆的道路。深根底层包含着游戏中最重要的背景故事，包括关于"黄金"戈德温——死亡王子的真相，以及"活死者"族群的起源。</p>
 
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?w=800&h=450&fit=crop" alt="代表艾尔登法环隐藏区域的神秘地下世界" loading="lazy" />
-  <figcaption>深根底层蕴含着整个游戏中最重要的剧情秘密</figcaption>
-</figure>
-
 <h2>颠覆一切的秘技与诀窍</h2>
 
 <p>除了隐藏区域与Boss，《艾尔登法环》还充满了可以彻底改变你游戏体验的<strong>秘密与技巧</strong>。</p>
@@ -249,11 +224,6 @@ export const guidesZhPart1b = [
 <li><strong>玛莉卡才是故事中真正的反派。</strong>或者至少，她是游戏中道德最复杂的角色。她的行动引发了整个故事，她的动机通过与拉达冈、戈德弗雷以及褪色者的互动逐步揭示。</li>
 <li><strong>褪色者并非英雄。</strong>你不是被选中的人。你只是众多被流放的战士之一，被多个势力操纵，每个势力都想利用你达成自己的目的。游戏的多种结局正反映了这种模糊性——不存在纯粹"善良"的结局。</li>
 </ul>
-
-<figure class="article-image">
-  <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&h=450&fit=crop" alt="代表艾尔登法环复杂剧情的黑暗氛围场景" loading="lazy" />
-  <figcaption>《艾尔登法环》的剧情深度远超大多数玩家的认知，每个角落都藏着秘密</figcaption>
-</figure>
 
 <h2>结语</h2>
 

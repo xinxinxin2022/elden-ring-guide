@@ -1,42 +1,25 @@
 #!/bin/bash
-# Deploy script for GitHub Pages
-# Prerequisites:
-#   1. Install dependencies: npm install
-#   2. Set up GitHub repo with gh-pages branch
-#   3. Update the REPO_URL below
+# Elden Ring Guide - GitHub Pages 部署脚本
+# 用法: ./deploy.sh
 
 set -e
 
-REPO_URL="https://github.com/yourusername/elden-ring-guide.git"
-BUILD_DIR="dist"
-
-echo "🏰 Building Elden Ring Guide..."
-echo ""
-
-# Clean
-rm -rf $BUILD_DIR
-
-# Build
+echo "🏰 构建 Elden Ring Guide..."
 npm run build
 
-# Generate sitemap and robots
+echo "🗺 生成站点地图..."
 node scripts/generate-sitemap.js
 
-# Copy 404.html for SPA support
-cp public/404.html $BUILD_DIR/404.html
-
-# Copy CNAME if exists
-if [ -f "CNAME" ]; then
-  cp CNAME $BUILD_DIR/CNAME
-fi
+echo "📄 复制 404 页面..."
+cp public/404.html dist/404.html
 
 echo ""
-echo "📦 Deploying to GitHub Pages..."
-
-# Deploy using gh-pages
-npx gh-pages -d $BUILD_DIR --dotfiles true -m "Deploy: $(date +%Y-%m-%d_%H-%M-%S)"
-
+echo "✅ 构建完成！"
 echo ""
-echo "✅ Deploy complete!"
-echo "   Site: https://yourusername.github.io/elden-ring-guide/"
+echo "下一步操作:"
+echo "  1. git add -A"
+echo "  2. git commit -m 'Deploy: $(date +%Y-%m-%d)'"
+echo "  3. git push origin main"
 echo ""
+echo "GitHub Actions 会自动构建并部署到:"
+echo "  https://xinxinxin2022.github.io/elden-ring-guide/"

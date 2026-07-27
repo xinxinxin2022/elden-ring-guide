@@ -10,7 +10,7 @@ export const guidesNewPart2 = [
     updatedDate: '2026-07-27',
     readTime: 14,
     image:
-      '/images/da3b8a2e81908a3ca72a7b1050e18d10.jpeg',
+      '/images/da3b8a2e81908a3ca72a7b1050e18d10.webp',
     content: `
 <p>The <strong>Shadow of the Erdtree</strong> DLC didn't just add new bosses — it completely rewrote the Elden Ring meta. After months of patch tuning through 2025 and into early 2026, a handful of builds have emerged as the true "endgame" choices for both PvE and the occasional PvP incursion. Whether you're tearing through the Realm of Shadow for the first time or min-maxing for optimal clear speed, these six builds represent the peak of what's viable right now.</p>
 
@@ -176,7 +176,7 @@ export const guidesNewPart2 = [
     updatedDate: '2026-07-27',
     readTime: 11,
     image:
-      '/images/5f69e7fc3ec7dedc0b7756c5c9745967.jpeg',
+      '/images/5f69e7fc3ec7dedc0b7756c5c9745967.webp',
     content: `
 <p>Elden Ring's leveling curve is punishing if you don't know where to farm. A player who grinds inefficiently can spend hours stuck on a single boss, while a player who knows the right spots can blast past content that should be far above their level. This 2026 guide breaks down the best rune farming methods for every stage of the game — from the 2,000-rune-per-run Gatefront method to the absurd 10 million+ runes per hour Mohgwyn Palace loop.</p>
 

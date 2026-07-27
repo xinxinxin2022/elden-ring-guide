@@ -8,7 +8,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 12,
-    image: "/images/33a097959a43e4249d9f6a812d7eec29.jpeg",
+    image: "/images/33a097959a43e4249d9f6a812d7eec29.webp",
     content: `
 <h2>Welcome to the Lands Between: Your Elden Ring Beginner Guide</h2>
 
@@ -120,7 +120,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 10,
-    image: "/images/11fdffcb237a6f883d7326ab13166e45.jpeg",
+    image: "/images/11fdffcb237a6f883d7326ab13166e45.webp",
     content: `
 <h2>Choosing the Best Starting Class in Elden Ring</h2>
 
@@ -245,7 +245,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 15,
-    image: "/images/29f3dae94c355cdeb9f1afb77408c3f9.jpeg",
+    image: "/images/29f3dae94c355cdeb9f1afb77408c3f9.webp",
     content: `
 <h2>The Complete Elden Ring Boss Order Guide</h2>
 
@@ -343,7 +343,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 14,
-    image: "/images/f0ff543a08684d2ed31236f5a6b9215e.jpeg",
+    image: "/images/f0ff543a08684d2ed31236f5a6b9215e.webp",
     content: `
 <h2>The Best Elden Ring Builds for 2024</h2>
 
@@ -491,7 +491,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 11,
-    image: "/images/a74d657f77650225e31204ff159b6d4e.jpeg",
+    image: "/images/a74d657f77650225e31204ff159b6d4e.webp",
     content: `
 <h2>Elden Ring Secrets That Will Blow Your Mind</h2>
 

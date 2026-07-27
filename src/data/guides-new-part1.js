@@ -8,7 +8,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 12,
-    image: '/images/7374c6f642c60eecf7ce732c3a2c02c1.jpeg',
+    image: '/images/7374c6f642c60eecf7ce732c3a2c02c1.webp',
     content: `
       <p>Malenia, Blade of Miquella stands as Elden Ring's most notorious boss, a challenge that has claimed countless Tarnished lives since the game's release. Located at the base of the Haligtree after conquering one of the most difficult legacy dungeons in the game, Malenia represents the ultimate test of skill, patience, and build optimization. This comprehensive guide will walk you through everything you need to know to defeat her, from exploiting her weaknesses to executing perfect dodges during her infamous Waterfowl Dance.</p>
 
@@ -142,7 +142,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 15,
-    image: '/images/33f8806963d827aa4e51dd7e028ab329.jpeg',
+    image: '/images/33f8806963d827aa4e51dd7e028ab329.webp',
     content: `
       <p>The Shadow of the Erdtree DLC expands Elden Ring's already massive world with new regions, quests, and some of the most challenging hidden bosses in the entire game. While main story bosses like Messmer the Impaler and Radahn's second phase are well-documented, the DLC contains numerous secret and optional bosses that many players miss on their first playthrough. This comprehensive guide reveals every hidden boss location, recommended levels, and strategies for defeating them.</p>
 
@@ -254,7 +254,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 14,
-    image: '/images/c2a9748bb91bf508886e3280132687e9.jpeg',
+    image: '/images/c2a9748bb91bf508886e3280132687e9.webp',
     content: `
       <p>Talismans are among the most powerful customization tools in Elden Ring, providing passive bonuses that can dramatically enhance your build's effectiveness. While many players focus on weapons and armor, the right talisman combination can be the difference between victory and defeat in challenging encounters. This guide covers the best talismans for every build archetype, where to find them, and how to optimize your talisman slot management for maximum effectiveness.</p>
 

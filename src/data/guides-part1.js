@@ -8,7 +8,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 12,
-    image: "/images/a74d657f77650225e31204ff159b6d4e.jpeg",
+    image: "/images/33a097959a43e4249d9f6a812d7eec29.jpeg",
     content: `
 <h2>Welcome to the Lands Between: Your Elden Ring Beginner Guide</h2>
 

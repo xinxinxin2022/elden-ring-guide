@@ -8,7 +8,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 12,
-    image: '/images/9e61fc66878c0b1c1ca1221f40c1148a.jpeg',
+    image: '/images/a74d657f77650225e31204ff159b6d4e.jpeg',
     content: `
       <p>Malenia, Blade of Miquella stands as Elden Ring's most notorious boss, a challenge that has claimed countless Tarnished lives since the game's release. Located at the base of the Haligtree after conquering one of the most difficult legacy dungeons in the game, Malenia represents the ultimate test of skill, patience, and build optimization. This comprehensive guide will walk you through everything you need to know to defeat her, from exploiting her weaknesses to executing perfect dodges during her infamous Waterfowl Dance.</p>
 
@@ -254,7 +254,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 14,
-    image: '/images/33a097959a43e4249d9f6a812d7eec29.jpeg',
+    image: '/images/9e61fc66878c0b1c1ca1221f40c1148a.jpeg',
     content: `
       <p>Talismans are among the most powerful customization tools in Elden Ring, providing passive bonuses that can dramatically enhance your build's effectiveness. While many players focus on weapons and armor, the right talisman combination can be the difference between victory and defeat in challenging encounters. This guide covers the best talismans for every build archetype, where to find them, and how to optimize your talisman slot management for maximum effectiveness.</p>
 

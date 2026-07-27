@@ -491,7 +491,7 @@ export const guidesPart1 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 11,
-    image: "/images/7374c6f642c60eecf7ce732c3a2c02c1.jpeg",
+    image: "/images/a74d657f77650225e31204ff159b6d4e.jpeg",
     content: `
 <h2>Elden Ring Secrets That Will Blow Your Mind</h2>
 

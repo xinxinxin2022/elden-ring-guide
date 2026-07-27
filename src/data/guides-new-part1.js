@@ -8,7 +8,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 12,
-    image: '/images/a74d657f77650225e31204ff159b6d4e.jpeg',
+    image: '/images/7374c6f642c60eecf7ce732c3a2c02c1.jpeg',
     content: `
       <p>Malenia, Blade of Miquella stands as Elden Ring's most notorious boss, a challenge that has claimed countless Tarnished lives since the game's release. Located at the base of the Haligtree after conquering one of the most difficult legacy dungeons in the game, Malenia represents the ultimate test of skill, patience, and build optimization. This comprehensive guide will walk you through everything you need to know to defeat her, from exploiting her weaknesses to executing perfect dodges during her infamous Waterfowl Dance.</p>
 

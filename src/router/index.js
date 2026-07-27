@@ -102,4 +102,15 @@ router.beforeEach((to) => {
   }
 })
 
+// GA4 page_view tracking for SPA route changes
+router.afterEach((to) => {
+  if (typeof window !== 'undefined' && window.gtag) {
+    window.gtag('event', 'page_view', {
+      page_path: to.path,
+      page_title: to.meta.title || 'Elden Ring Guide',
+      page_location: window.location.href
+    })
+  }
+})
+
 export default router

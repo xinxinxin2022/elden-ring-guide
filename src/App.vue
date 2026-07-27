@@ -36,7 +36,7 @@ const headData = ref({
     { name: 'description', content: 'Your comprehensive Elden Ring guide.' }
   ],
   link: [
-    { rel: 'canonical', href: 'https://yourusername.github.io/elden-ring-guide/' }
+    { rel: 'canonical', href: 'https://game-elden.asia/' }
   ]
 })
 

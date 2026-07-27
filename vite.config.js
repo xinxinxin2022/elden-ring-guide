@@ -11,7 +11,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/elden-ring-guide/',
+  base: '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

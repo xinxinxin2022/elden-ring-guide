@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const DIST_DIR = path.resolve(__dirname, '../dist')
-const SITE_URL = 'https://yourusername.github.io/elden-ring-guide'
+const SITE_URL = 'https://game-elden.asia'
 
 const routes = [
   { path: '/', priority: '1.0', changefreq: 'daily' },
@@ -56,10 +56,10 @@ function generateRobots() {
   const robots = `User-agent: *
 Allow: /
 
-Sitemap: ${SITE_URL}/sitemap.xml
+Sitemap: https://game-elden.asia/sitemap.xml
 
 # Elden Ring Guide - Comprehensive gaming guides
-# https://yourusername.github.io/elden-ring-guide/
+# https://game-elden.asia/
 `
 
   fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robots, 'utf-8')

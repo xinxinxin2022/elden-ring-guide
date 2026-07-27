@@ -78,7 +78,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/elden-ring-guide/'),
+  history: createWebHistory('/'),
   routes,
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) return savedPosition

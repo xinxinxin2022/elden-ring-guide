@@ -254,7 +254,7 @@ export const guidesNewPart1 = [
     date: '2026-07-27',
     updatedDate: '2026-07-27',
     readTime: 14,
-    image: '/images/9e61fc66878c0b1c1ca1221f40c1148a.jpeg',
+    image: '/images/c2a9748bb91bf508886e3280132687e9.jpeg',
     content: `
       <p>Talismans are among the most powerful customization tools in Elden Ring, providing passive bonuses that can dramatically enhance your build's effectiveness. While many players focus on weapons and armor, the right talisman combination can be the difference between victory and defeat in challenging encounters. This guide covers the best talismans for every build archetype, where to find them, and how to optimize your talisman slot management for maximum effectiveness.</p>
 

@@ -8,7 +8,7 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 25,
-    image: "/elden-ring-guide/images/929f4ee82aed795388a6b56fadf0fba2.jpeg",
+    image: "/images/ccbc39e09f19c0b784a76813b8942c71.jpeg",
     content: `
       <h2>Introduction to the Shadow of the Erdtree DLC</h2>
       <p>The Shadow of the Erdtree DLC represents FromSoftware's ambitious expansion to Elden Ring, introducing the mysterious Land of Shadow and countless new challenges for Tarnished seeking to uncover the secrets of the Erdtree. This <strong>elden ring dlc guide</strong> will walk you through everything you need to know about tackling this massive addition to the game, from recommended level and equipment to detailed boss strategies and hidden secrets.</p>
@@ -99,7 +99,7 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 18,
-    image: "/elden-ring-guide/images/95e01a862b02d1727696a4fc79825b5f.jpeg",
+    image: "/images/43f9e07c69994a2c30d48a07171ee4fa.jpeg",
     content: `
       <h2>Understanding Elden Ring's Multiple Endings</h2>
       <p>Elden Ring features six distinct endings that reflect different choices made throughout your journey. Unlike some FromSoftware games where endings are minor variations, each <strong>elden ring ending</strong> tells a different story about the future of the Lands Between and your role as Elden Lord. This <strong>elden ring ending guide</strong> will explain how to achieve each ending and what it means for the world.</p>
@@ -210,7 +210,7 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 15,
-    image: "/elden-ring-guide/images/be9e1110091b3e497b04ee03252213e5.jpeg",
+    image: "/images/249f571a883bae1b7679771b8b037d85.jpeg",
     content: `
       <h2>Finding the Best Early Game Weapons</h2>
       <p>Choosing the right weapon in Elden Ring can make or break your early game experience. The <strong>elden ring best weapons</strong> aren't always the ones with the highest damage numbers - you need to consider scaling, moveset, and synergy with your build. This guide covers the top 10 <strong>elden ring early game weapons</strong> that will carry you from the starting areas through the mid-game with ease.</p>
@@ -315,7 +315,7 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 20,
-    image: "/elden-ring-guide/images/c8575829af3438c6c2208b6e250b7b74.jpeg",
+    image: "/images/c4501ffdb041b71c05dcd9e2f73137b3.jpeg",
     content: `
       <h2>Getting Started with Elden Ring PvP</h2>
       <p><strong>Elden Ring PvP</strong> is one of the most challenging and rewarding aspects of the game. Whether you're invading other players' worlds or defending against invaders, success requires knowledge, skill, and the right build. This <strong>elden ring pvp guide</strong> will teach you the fundamentals of PvP combat, help you choose effective builds, and provide strategies for winning more duels.</p>
@@ -432,7 +432,7 @@ export const guidesPart2 = [
     date: "2026-07-27",
     updatedDate: "2026-07-27",
     readTime: 22,
-    image: "/elden-ring-guide/images/d78360c40d90db4eaef33d0886d0cce3.jpeg",
+    image: "/images/c8575829af3438c6c2208b6e250b7b74.jpeg",
     content: `
       <h2>Understanding Elden Ring's Complex Lore</h2>
       <p>Elden Ring's <strong>elden ring lore</strong> is among the most intricate and layered narratives in gaming. Created by Hidetaka Miyazaki and George R.R. Martin, the story unfolds through item descriptions, environmental storytelling, and cryptic dialogue. This <strong>elden ring story explained</strong> guide will break down the complete narrative, from the creation of the world to the events you experience as a Tarnished.</p>

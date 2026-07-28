@@ -40,6 +40,28 @@
               </router-link>
             </div>
           </footer>
+
+          <!-- Related Guides -->
+          <section class="related-guides" v-if="relatedGuides.length">
+            <h2 class="related-title">{{ t('guideDetail.relatedGuides') }}</h2>
+            <div class="related-grid">
+              <router-link
+                v-for="rg in relatedGuides"
+                :key="rg.slug"
+                :to="`/guides/${rg.slug}`"
+                class="related-card"
+              >
+                <div class="related-thumb">
+                  <img :src="rg.image" :alt="loc(rg.title)" loading="lazy" />
+                </div>
+                <div class="related-info">
+                  <span class="related-category">{{ loc(rg.category) }}</span>
+                  <h3 class="related-name">{{ loc(rg.title) }}</h3>
+                  <span class="related-meta">{{ rg.readTime }} {{ t('guides.minRead') }}</span>
+                </div>
+              </router-link>
+            </div>
+          </section>
         </article>
 
         <Sidebar class="guide-sidebar" />
@@ -81,6 +103,18 @@ const prevGuide = computed(() => {
 
 const nextGuide = computed(() => {
   return guideIndex.value < guides.length - 1 ? guides[guideIndex.value + 1] : null
+})
+
+const relatedGuides = computed(() => {
+  if (!guide.value) return []
+  const currentCategory = typeof guide.value.category === 'object' ? guide.value.category.en : guide.value.category
+  return guides
+    .filter(g => g.slug !== slug.value)
+    .filter(g => {
+      const cat = typeof g.category === 'object' ? g.category.en : g.category
+      return cat === currentCategory
+    })
+    .slice(0, 3)
 })
 </script>
 
@@ -220,6 +254,114 @@ const nextGuide = computed(() => {
   }
   .nav-arrow {
     max-width: 100%;
+  }
+}
+
+/* Related Guides */
+.related-guides {
+  margin-top: 64px;
+  padding-top: 40px;
+  border-top: 1px solid var(--color-border);
+}
+
+.related-title {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  color: var(--color-gold-bright);
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.related-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: all var(--transition-fast);
+  background: var(--color-bg-surface);
+}
+
+.related-card:hover {
+  border-color: var(--color-gold-dim);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.related-thumb {
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+  background: var(--color-bg-card);
+}
+
+.related-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.related-card:hover .related-thumb img {
+  transform: scale(1.05);
+}
+
+.related-info {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.related-category {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-gold);
+}
+
+.related-name {
+  font-family: var(--font-heading);
+  font-size: 0.95rem;
+  color: var(--color-text);
+  line-height: 1.4;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.related-meta {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  margin-top: auto;
+}
+
+@media (max-width: 768px) {
+  .related-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .related-thumb {
+    height: 180px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .related-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 </style>

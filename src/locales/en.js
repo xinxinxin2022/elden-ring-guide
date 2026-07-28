@@ -35,7 +35,8 @@ export default {
   guideDetail: {
     guideNotFound: 'Guide Not Found',
     notFoundText: "The guide you're looking for doesn't exist.",
-    browseAll: 'Browse All Guides'
+    browseAll: 'Browse All Guides',
+    relatedGuides: 'You Might Also Like'
   },
   sidebar: {
     popularGuides: 'Popular Guides',

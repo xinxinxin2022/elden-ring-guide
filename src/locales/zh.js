@@ -35,7 +35,8 @@ export default {
   guideDetail: {
     guideNotFound: '攻略未找到',
     notFoundText: '你正在寻找的攻略不存在。',
-    browseAll: '浏览所有攻略'
+    browseAll: '浏览所有攻略',
+    relatedGuides: '相关推荐'
   },
   sidebar: {
     popularGuides: '热门攻略',

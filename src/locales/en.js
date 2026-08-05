@@ -96,7 +96,7 @@ export default {
     name: 'Your Name',
     namePlaceholder: 'Enter your name',
     email: 'Email Address',
-    emailPlaceholder: 'your@email.com',
+    emailPlaceholder: 'Enter your email address',
     subject: 'Subject',
     subjectSelect: 'Select a topic',
     subjectGeneral: 'General Inquiry',

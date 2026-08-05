@@ -96,7 +96,7 @@ export default {
     name: '你的名字',
     namePlaceholder: '输入你的名字',
     email: '邮箱地址',
-    emailPlaceholder: 'your@email.com',
+    emailPlaceholder: '请输入邮箱地址',
     subject: '主题',
     subjectSelect: '选择话题',
     subjectGeneral: '一般咨询',

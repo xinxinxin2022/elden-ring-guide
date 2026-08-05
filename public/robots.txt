@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/elden-ring-guide/sitemap.xml
+Sitemap: https://game-elden.asia/sitemap.xml
 
 # Elden Ring Guide - Comprehensive gaming guides
-# https://yourusername.github.io/elden-ring-guide/
+# https://game-elden.asia/

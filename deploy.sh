@@ -15,6 +15,7 @@ node scripts/generate-sitemap.js
 
 echo "📄 复制 404 页面..."
 cp public/404.html dist/404.html
+touch dist/.nojekyll
 
 echo ""
 echo "✅ 构建完成！所有页面已预渲染为静态 HTML。"

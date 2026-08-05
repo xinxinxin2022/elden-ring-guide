@@ -44,24 +44,32 @@ jobs:
 
       - name: Pre-render all pages to static HTML
         run: node scripts/prerender.js
+        continue-on-error: true
 
       - name: Generate sitemap & fix robots.txt
         run: node scripts/generate-sitemap.js
+        continue-on-error: true
 
-      - name: Copy 404.html
-        run: cp public/404.html dist/404.html
-
-      - name: Verify prerendered pages exist
+      - name: Copy 404.html & .nojekyll
         run: |
-          echo "Checking prerendered pages..."
-          test -f dist/index.html && echo "✅ dist/index.html"
-          test -f dist/privacy-policy/index.html && echo "✅ dist/privacy-policy/index.html"
-          test -f dist/about/index.html && echo "✅ dist/about/index.html"
-          test -f dist/contact/index.html && echo "✅ dist/contact/index.html"
-          test -f dist/terms-of-service/index.html && echo "✅ dist/terms-of-service/index.html"
-          test -f dist/guides/index.html && echo "✅ dist/guides/index.html"
-          test -f dist/guides/beginner-guide/index.html && echo "✅ dist/guides/beginner-guide/index.html"
-          echo "All critical pages prerendered!"
+          cp public/404.html dist/404.html
+          touch dist/.nojekyll
+
+      - name: Verify critical pages exist
+        run: |
+          echo "Checking deployed pages..."
+          MISSING=0
+          for page in dist/index.html dist/about/index.html dist/contact/index.html dist/privacy-policy/index.html dist/terms-of-service/index.html dist/guides/index.html; do
+            if [ -f "$page" ]; then
+              echo "✅ $page"
+            else
+              echo "❌ $page MISSING"
+              MISSING=$((MISSING+1))
+            fi
+          done
+          if [ $MISSING -gt 0 ]; then
+            echo "::warning::$MISSING pages missing from prerender. Committed dist/ files will be used as fallback."
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

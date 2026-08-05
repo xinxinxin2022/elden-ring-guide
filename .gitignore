@@ -1,5 +1,5 @@
 node_modules/
-dist/
+# dist/ is committed so GitHub Pages serves prerendered pages immediately
 .DS_Store
 *.local
 .env
